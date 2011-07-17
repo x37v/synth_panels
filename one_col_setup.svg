@@ -35,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.85503027"
      inkscape:cx="-71.285848"
-     inkscape:cy="229.26926"
+     inkscape:cy="241.54953"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,7 +52,8 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-object-midpoints="false"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="false"
+     gridtolerance="10">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -85,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +110,7 @@
        sodipodi:cy="87.321426"
        sodipodi:rx="15.535714"
        sodipodi:ry="15.535714"
-       d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
+       d="m 33.928571,87.321426 c 0,8.580138 -6.955576,15.535714 -15.535714,15.535714 -8.5801384,0 -15.5357146,-6.955576 -15.5357146,-15.535714 0,-8.580138 6.9555762,-15.535714 15.5357146,-15.535714 8.580138,0 15.535714,6.955576 15.535714,15.535714 z"
        transform="matrix(0.45332642,0,0,0.45332642,47.986154,389.82467)" />
     <use
        x="0"
