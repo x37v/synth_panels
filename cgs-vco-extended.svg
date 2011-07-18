@@ -639,10 +639,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85503027"
-     inkscape:cx="-104.08129"
-     inkscape:cy="311.27142"
+     inkscape:cx="181.50703"
+     inkscape:cy="418.17097"
      inkscape:document-units="in"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:snap-global="true"
@@ -657,14 +657,15 @@
      inkscape:bbox-paths="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      fit-margin-top="0.1"
      fit-margin-left="0.1"
      fit-margin-right="0"
      fit-margin-bottom="0.1"
      gridtolerance="10"
-     inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:bbox-nodes="false">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -978,7 +979,7 @@
        sodipodi:type="arc" />
   </g>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="graphics"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-13.625,-402.125)"
@@ -12156,5 +12157,47 @@
          id="tspan22879"
          x="160.41734"
          y="1025.429">VCO</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.78872395;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect24347"
+       width="268.21301"
+       height="628.20953"
+       x="25.742964"
+       y="416.53119" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.92239285;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect24351"
+       width="89.540726"
+       height="142.96471"
+       x="25.334274"
+       y="588.9563" />
+    <rect
+       y="588.93524"
+       x="114.875"
+       height="142.98573"
+       width="89.999992"
+       id="rect24353"
+       style="fill:none;stroke:#000000;stroke-width:0.92482328;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.94035721;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect24355"
+       width="89.911942"
+       height="313.14261"
+       x="114.95338"
+       y="731.99939" />
+    <rect
+       y="731.93048"
+       x="25.33289"
+       height="313.2222"
+       width="89.534225"
+       id="rect24357"
+       style="fill:none;stroke:#000000;stroke-width:0.91894788;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.91093153;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect24359"
+       width="89.52272"
+       height="459.26306"
+       x="204.88931"
+       y="416.06763" />
   </g>
 </svg>
