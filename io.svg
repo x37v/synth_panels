@@ -47,11 +47,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85503027"
-     inkscape:cx="-60.745869"
-     inkscape:cy="418.73721"
+     inkscape:zoom="1.2091954"
+     inkscape:cx="2.7856448"
+     inkscape:cy="322.99162"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
      inkscape:snap-global="true"
@@ -59,8 +59,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1278"
      inkscape:window-height="1003"
-     inkscape:window-x="1920"
-     inkscape:window-y="19"
+     inkscape:window-x="213"
+     inkscape:window-y="58"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -81,7 +81,7 @@
        snapvisiblegridlinesonly="true"
        units="in"
        spacingx="0.25in"
-       spacingy="0.3188in"
+       spacingy="0.3984in"
        originy="0in"
        dotted="false"
        originx="0.125in"
@@ -104,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,8 +113,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-399.8622)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2987"
@@ -142,7 +141,7 @@
        height="652.5"
        style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
     <g
-       transform="translate(-136.60715,373.54402)"
+       transform="translate(-136.60715,388.01602)"
        id="layer1-7"
        inkscape:label="Layer 1"
        style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none">
@@ -162,28 +161,26 @@
        y="0"
        xlink:href="#layer1-7"
        id="use4227"
-       transform="translate(2.8128681e-6,114.768)"
+       transform="translate(2.812868e-6,143.424)"
        width="112.5"
        height="652.5"
        style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use4227"
-       id="use4229"
-       transform="translate(0,114.768)"
-       width="112.5"
-       height="652.5"
-       style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use4229"
+    <g
+       style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:label="Layer 1"
        id="use4231"
-       transform="translate(0,114.768)"
-       width="112.5"
-       height="652.5"
-       style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
+       transform="translate(-136.60715,674.86402)">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:0.37573335;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3028"
+         sodipodi:cx="192.85715"
+         sodipodi:cy="162.36218"
+         sodipodi:rx="70"
+         sodipodi:ry="70"
+         d="m 262.85715,162.36218 a 70,70 0 1 1 -140,0 70,70 0 1 1 140,0 z"
+         transform="matrix(0.23953158,0,0,0.23953158,146.66177,123.47131)" />
+    </g>
     <path
        inkscape:connector-curvature="0"
        id="rect2986"
@@ -205,34 +202,21 @@
        y="0"
        xlink:href="#rect2986"
        id="use4849"
-       transform="translate(0,114.62399)"
+       transform="translate(0,143.42399)"
        width="112.5"
        height="652.5"
        style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use4849"
-       id="use4853"
-       transform="translate(0,114.768)"
-       width="112.5"
-       height="652.5"
-       style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use4853"
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 47.5,754.8423 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
        id="use4857"
-       transform="translate(0,114.768)"
-       width="112.5"
-       height="652.5"
-       style="stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
+       inkscape:connector-curvature="0" />
     <use
        x="0"
        y="0"
        xlink:href="#use4231"
        id="use4962"
-       transform="translate(0,114.768)"
+       transform="translate(2.8128681e-6,143.424)"
        width="112.5"
        height="652.5" />
     <use
@@ -240,7 +224,7 @@
        y="0"
        xlink:href="#use4857"
        id="use4964"
-       transform="translate(0,114.768)"
+       transform="translate(0,143.424)"
        width="112.5"
        height="652.5" />
   </g>
@@ -258,17 +242,12 @@
        y="16.654999" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 11.25,394.272 c 90,0 90,0 90,0"
+       d="m 10.35,330.696 c 90,0 90,0 90,0"
        id="path4882"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 11.25,279.504 c 82.898714,0 90,0 90,0 l 0,0"
-       id="path4884"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 11.25,164.736 c 90,0 90,0 90,0"
+       d="m 10.35,185.472 c 90,0 90,0 90,0"
        id="path4886"
        inkscape:connector-curvature="0" />
     <text
@@ -287,7 +266,7 @@
        y="0"
        xlink:href="#path4882"
        id="use4966"
-       transform="translate(0,114.768)"
+       transform="translate(0,143.424)"
        width="112.5"
        height="652.5" />
   </g>
