@@ -5,3 +5,4 @@ lines for separation
 Font
    12 for item labels
    20 for functional block labels
+Switches used on the VCS needed 1/4" holes
