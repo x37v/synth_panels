@@ -3416,9 +3416,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="839.71343"
-     inkscape:cy="280.19422"
+     inkscape:zoom="0.7"
+     inkscape:cx="774.78743"
+     inkscape:cy="303.36548"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -12907,14 +12907,14 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="145.55043"
-       y="417.5174"
+       x="164.12186"
+       y="418.94595"
        id="text9174"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9176"
-         x="145.55043"
-         y="417.5174"
+         x="164.12186"
+         y="418.94595"
          style="font-size:20px">VCO</tspan></text>
     <g
        transform="translate(655.245,67.49996)"
@@ -16332,13 +16332,13 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="481.31281"
+       x="489.88425"
        y="419.11935"
        id="text11494"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11496"
-         x="481.31281"
+         x="489.88425"
          y="419.11935"
          style="font-size:20px">WAVE MULT</tspan></text>
     <text
@@ -18614,13 +18614,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text12306"
-       y="422.56815"
-       x="330.40836"
+       y="419.711"
+       x="346.12265"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
        xml:space="preserve"><tspan
          style="font-size:20px"
-         y="422.56815"
-         x="330.40836"
+         y="419.711"
+         x="346.12265"
          id="tspan12308"
          sodipodi:role="line">VCO</tspan></text>
     <g
@@ -21905,13 +21905,13 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="641.72974"
+       x="644.58685"
        y="418.37381"
        id="text13464"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan13466"
-         x="641.72974"
+         x="644.58685"
          y="418.37381"
          style="font-size:20px">MIXER</tspan></text>
     <text
@@ -44399,14 +44399,14 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="1417.3517"
-       y="413.37381"
+       x="1395.9231"
+       y="423.37381"
        id="text38507"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan38509"
-         x="1417.3517"
-         y="413.37381"
+         x="1395.9231"
+         y="423.37381"
          style="font-size:20px">DUAL LFO</tspan></text>
     <g
        id="g38511"
@@ -47079,13 +47079,13 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="1273.4077"
+       x="1264.8363"
        y="418.94598"
        id="text39421"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan39423"
-         x="1273.4077"
+         x="1264.8363"
          y="418.94598">VC DIVIDER</tspan></text>
     <text
        sodipodi:linespacing="125%"
