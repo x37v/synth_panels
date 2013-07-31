@@ -6,3 +6,15 @@ Font
    12 for item labels
    20 for functional block labels
 Switches used on the VCS needed 1/4" holes
+
+
+SERGE:
+
+mounting holes: 0.1875 diameter
+	1 inch from side
+	0.1875 from bottom
+
+rail holes: 0.125 diameter
+	2.375 inch from side
+	0.625 inch from top
+	
