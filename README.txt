@@ -18,3 +18,6 @@ rail holes: 0.125 diameter
 	2.375 inch from side
 	0.625 inch from top
 	
+inkscape: select by color
+	ctl-f [find]
+	by style: stroke:#ff0000
