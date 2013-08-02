@@ -15,7 +15,7 @@
    height="652.5"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="cgs-vco-extended.svg"
    style="display:inline">
   <defs
@@ -639,19 +639,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2091954"
-     inkscape:cx="78.546004"
-     inkscape:cy="339.2264"
+     inkscape:cx="-32.487517"
+     inkscape:cy="390.93659"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
      inkscape:snap-global="true"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1441"
-     inkscape:window-height="1154"
-     inkscape:window-x="628"
-     inkscape:window-y="77"
+     inkscape:window-width="1684"
+     inkscape:window-height="1307"
+     inkscape:window-x="503"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
@@ -746,8 +746,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="cuts"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        transform="translate(-13.625,-402.125)"
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -824,58 +823,30 @@
        id="path14276"
        inkscape:connector-curvature="0" />
     <path
-       transform="translate(-13.625,-402.125)"
        inkscape:connector-curvature="0"
        id="path18157"
        d="m 151.125,685.39312 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
-       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <path
-       transform="translate(-13.625,-402.125)"
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 241.125,972.24106 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
+       transform="translate(-13.625,-402.125)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 139.78616,570.11612 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
        id="path18169"
        inkscape:connector-curvature="0" />
     <path
-       transform="translate(-13.625,-402.125)"
        inkscape:connector-curvature="0"
        id="path18181"
-       d="m 241.12501,900.52908 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
+       d="m 139.78617,498.40414 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
-       transform="translate(-13.625,-402.125)"
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 151.125,972.24114 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
+       d="m -245.78297,563.66736 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
        id="path18193"
        inkscape:connector-curvature="0" />
     <path
-       transform="translate(-13.625,-402.125)"
        inkscape:connector-curvature="0"
        id="path19339"
-       d="m 151.125,900.52912 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
-       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <path
-       transform="translate(-13.625,-402.125)"
-       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 241.12501,828.81708 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
-       id="path19351"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="translate(-13.625,-402.125)"
-       inkscape:connector-curvature="0"
-       id="path20121"
-       d="m 241.125,685.39313 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
-       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <path
-       transform="translate(-13.625,-402.125)"
-       inkscape:connector-curvature="0"
-       id="path20133"
-       d="m 241.125,757.10514 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
-       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <path
-       transform="translate(-13.625,-402.125)"
-       inkscape:connector-curvature="0"
-       id="path20143"
-       d="m 241.125,470.2571 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
+       d="m -245.78297,491.95534 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:type="arc"
@@ -898,16 +869,6 @@
        d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
        transform="matrix(0.77124809,0,0,0.77124809,42.064552,89.58089)" />
     <path
-       transform="matrix(0.77143179,0,0,0.77143179,222.84414,89.60214)"
-       d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
-       sodipodi:ry="15.535714"
-       sodipodi:rx="15.535714"
-       sodipodi:cy="87.321426"
-       sodipodi:cx="18.392857"
-       id="path19359"
-       style="fill:none;stroke:#000000;stroke-width:0.11666618;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       sodipodi:type="arc" />
-    <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-width:0.11666618;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="path17775"
@@ -917,16 +878,6 @@
        sodipodi:ry="15.535714"
        d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
        transform="matrix(0.77143179,0,0,0.77143179,132.84414,161.31417)" />
-    <path
-       transform="matrix(0.77143179,0,0,0.77143179,222.84414,161.31414)"
-       d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
-       sodipodi:ry="15.535714"
-       sodipodi:rx="15.535714"
-       sodipodi:cy="87.321426"
-       sodipodi:cx="18.392857"
-       id="path19739"
-       style="fill:none;stroke:#000000;stroke-width:0.11666618;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       sodipodi:type="arc" />
     <path
        transform="matrix(0.77124809,0,0,0.77124809,42.064552,161.29287)"
        d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
@@ -966,9 +917,9 @@
        sodipodi:rx="15.535714"
        sodipodi:ry="15.535714"
        d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
-       transform="matrix(0.77143179,0,0,0.77143179,132.84414,304.73823)" />
+       transform="matrix(0.77143179,0,0,0.77143179,-250.43883,298.28945)" />
     <path
-       transform="matrix(0.77143179,0,0,0.77143179,132.84414,376.45026)"
+       transform="matrix(0.77143179,0,0,0.77143179,-250.43883,370.00148)"
        d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
        sodipodi:ry="15.535714"
        sodipodi:rx="15.535714"
@@ -4304,7 +4255,7 @@
       </g>
       <path
          transform="matrix(1.1716161,0,0,1.207031,74.863779,-1.1407181)"
-         d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
+         d="m 3.0304585,40.884327 c 0,13.807823 -11.532648,25.001276 -25.7588905,25.001276 -14.226242,0 -25.75889,-11.193453 -25.75889,-25.001276 0,-13.807824 11.532648,-25.001276 25.75889,-25.001276 14.2262425,0 25.7588905,11.193452 25.7588905,25.001276 z"
          sodipodi:ry="25.001276"
          sodipodi:rx="25.75889"
          sodipodi:cy="40.884327"
@@ -5338,7 +5289,7 @@
       </g>
       <path
          transform="matrix(1.1716161,0,0,1.207031,74.863779,-1.1407181)"
-         d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
+         d="m 3.0304585,40.884327 c 0,13.807823 -11.532648,25.001276 -25.7588905,25.001276 -14.226242,0 -25.75889,-11.193453 -25.75889,-25.001276 0,-13.807824 11.532648,-25.001276 25.75889,-25.001276 14.2262425,0 25.7588905,11.193452 25.7588905,25.001276 z"
          sodipodi:ry="25.001276"
          sodipodi:rx="25.75889"
          sodipodi:cy="40.884327"
@@ -5349,7 +5300,7 @@
     </g>
     <g
        id="g18585"
-       transform="translate(112.42319,726.0247)">
+       transform="translate(-270.85978,719.57592)">
       <g
          transform="translate(-58.066352,15.932294)"
          id="g18587"
@@ -6372,7 +6323,7 @@
       </g>
       <path
          transform="matrix(1.1716161,0,0,1.207031,74.863779,-1.1407181)"
-         d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
+         d="m 3.0304585,40.884327 c 0,13.807823 -11.532648,25.001276 -25.7588905,25.001276 -14.226242,0 -25.75889,-11.193453 -25.75889,-25.001276 0,-13.807824 11.532648,-25.001276 25.75889,-25.001276 14.2262425,0 25.7588905,11.193452 25.7588905,25.001276 z"
          sodipodi:ry="25.001276"
          sodipodi:rx="25.75889"
          sodipodi:cy="40.884327"
@@ -6380,2074 +6331,6 @@
          id="path18951"
          style="opacity:0;fill:none;stroke:#000000;stroke-width:0.75681657;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          sodipodi:type="arc" />
-    </g>
-    <g
-       transform="translate(202.42319,510.88861)"
-       id="g19365">
-      <g
-         style="display:inline"
-         id="g19367"
-         transform="translate(-58.066352,15.932294)">
-        <g
-           transform="translate(37.580586,-111.51319)"
-           id="g19369"
-           style="display:inline">
-          <g
-             id="g19371">
-            <defs
-               id="defs19373">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19375"
-                 d="m 68.708,143.812 -15.03,-26.11 c 9.07,-5.399 21.021,-5.289 30.12,0.021 l -15.09,26.089" />
-            </defs>
-            <clipPath
-               id="clipPath19377">
-              <path
-                 d="m 68.708,143.812 -15.03,-26.11 c 9.07,-5.399 21.021,-5.289 30.12,0.021 l -15.09,26.089"
-                 id="use19379"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_42_-3-8)"
-               id="g19381">
-              <g
-                 id="g19383">
-                <line
-                   x1="51.108002"
-                   y1="143.812"
-                   x2="51.108002"
-                   y2="108.829"
-                   id="line19385"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="54.631001"
-                   y1="143.812"
-                   x2="54.631001"
-                   y2="108.829"
-                   id="line19387"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="58.153999"
-                   y1="143.812"
-                   x2="58.153999"
-                   y2="108.829"
-                   id="line19389"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.676998"
-                   y1="143.812"
-                   x2="61.676998"
-                   y2="108.829"
-                   id="line19391"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.199997"
-                   y1="143.812"
-                   x2="65.199997"
-                   y2="108.829"
-                   id="line19393"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.723"
-                   y1="143.812"
-                   x2="68.723"
-                   y2="108.829"
-                   id="line19395"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.246002"
-                   y1="143.812"
-                   x2="72.246002"
-                   y2="108.829"
-                   id="line19397"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.768997"
-                   y1="143.812"
-                   x2="75.768997"
-                   y2="108.829"
-                   id="line19399"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="79.291"
-                   y1="143.812"
-                   x2="79.291"
-                   y2="108.829"
-                   id="line19401"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="82.814003"
-                   y1="143.812"
-                   x2="82.814003"
-                   y2="108.829"
-                   id="line19403"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="86.336998"
-                   y1="143.812"
-                   x2="86.336998"
-                   y2="108.829"
-                   id="line19405"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19407">
-            <defs
-               id="defs19409">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19411"
-                 d="m 68.708,143.812 15.08,-26.101 c 9.141,5.24 15.201,15.541 15.041,26.101 H 68.708" />
-            </defs>
-            <clipPath
-               id="clipPath19413">
-              <path
-                 d="m 68.708,143.812 15.08,-26.101 c 9.141,5.24 15.201,15.541 15.041,26.101 H 68.708"
-                 id="use19415"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_44_-0-2)"
-               id="g19417">
-              <g
-                 id="g19419">
-                <line
-                   x1="59.900002"
-                   y1="128.556"
-                   x2="90.195999"
-                   y2="111.064"
-                   id="line19421"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.661999"
-                   y1="131.60699"
-                   x2="91.958"
-                   y2="114.116"
-                   id="line19423"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.423"
-                   y1="134.657"
-                   x2="93.720001"
-                   y2="117.166"
-                   id="line19425"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.184998"
-                   y1="137.70799"
-                   x2="95.481003"
-                   y2="120.218"
-                   id="line19427"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.945999"
-                   y1="140.759"
-                   x2="97.242996"
-                   y2="123.269"
-                   id="line19429"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="99.004997"
-                   y2="126.319"
-                   id="line19431"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.469002"
-                   y1="146.86099"
-                   x2="100.765"
-                   y2="129.37"
-                   id="line19433"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.230003"
-                   y1="149.912"
-                   x2="102.526"
-                   y2="132.42101"
-                   id="line19435"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="152.963"
-                   x2="104.288"
-                   y2="135.472"
-                   id="line19437"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.752998"
-                   y1="156.01401"
-                   x2="106.05"
-                   y2="138.522"
-                   id="line19439"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="77.514999"
-                   y1="159.064"
-                   x2="107.812"
-                   y2="141.573"
-                   id="line19441"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19443">
-            <defs
-               id="defs19445">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19447"
-                 d="m 68.708,143.812 h 30.121 c 0.1,10.59 -5.84,20.88 -15.061,26.09 l -15.06,-26.09" />
-            </defs>
-            <clipPath
-               id="clipPath19449">
-              <path
-                 d="m 68.708,143.812 h 30.121 c 0.1,10.59 -5.84,20.88 -15.061,26.09 l -15.06,-26.09"
-                 id="use19451"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_46_-0-9)"
-               id="g19453">
-              <g
-                 id="g19455">
-                <line
-                   x1="77.516998"
-                   y1="128.556"
-                   x2="107.812"
-                   y2="146.047"
-                   id="line19457"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.754997"
-                   y1="131.60699"
-                   x2="106.05"
-                   y2="149.099"
-                   id="line19459"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="134.657"
-                   x2="104.29"
-                   y2="152.14799"
-                   id="line19461"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.231003"
-                   y1="137.709"
-                   x2="102.528"
-                   y2="155.19901"
-                   id="line19463"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.470001"
-                   y1="140.75999"
-                   x2="100.767"
-                   y2="158.25"
-                   id="line19465"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="99.004997"
-                   y2="161.302"
-                   id="line19467"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.946999"
-                   y1="146.86099"
-                   x2="97.242996"
-                   y2="164.353"
-                   id="line19469"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.185997"
-                   y1="149.912"
-                   x2="95.481003"
-                   y2="167.403"
-                   id="line19471"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.424"
-                   y1="152.963"
-                   x2="93.720001"
-                   y2="170.45399"
-                   id="line19473"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.662998"
-                   y1="156.01401"
-                   x2="91.959999"
-                   y2="173.505"
-                   id="line19475"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="59.901001"
-                   y1="159.064"
-                   x2="90.197998"
-                   y2="176.556"
-                   id="line19477"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19479">
-            <defs
-               id="defs19481">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19483"
-                 d="m 68.708,143.812 -15.08,-26.101 c -9.14,5.24 -15.2,15.541 -15.04,26.101 h 30.12" />
-            </defs>
-            <clipPath
-               id="clipPath19485">
-              <path
-                 d="m 68.708,143.812 -15.08,-26.101 c -9.14,5.24 -15.2,15.541 -15.04,26.101 h 30.12"
-                 id="use19487"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_48_-6-1)"
-               id="g19489">
-              <g
-                 id="g19491">
-                <line
-                   x1="77.516998"
-                   y1="128.556"
-                   x2="47.220001"
-                   y2="111.064"
-                   id="line19493"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.754997"
-                   y1="131.60699"
-                   x2="45.458"
-                   y2="114.116"
-                   id="line19495"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="134.657"
-                   x2="43.696999"
-                   y2="117.166"
-                   id="line19497"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.231003"
-                   y1="137.70799"
-                   x2="41.936001"
-                   y2="120.218"
-                   id="line19499"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.470001"
-                   y1="140.759"
-                   x2="40.174"
-                   y2="123.269"
-                   id="line19501"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="38.411999"
-                   y2="126.319"
-                   id="line19503"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.946999"
-                   y1="146.86099"
-                   x2="36.651001"
-                   y2="129.37"
-                   id="line19505"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.185997"
-                   y1="149.912"
-                   x2="34.889999"
-                   y2="132.42101"
-                   id="line19507"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.424"
-                   y1="152.963"
-                   x2="33.127998"
-                   y2="135.472"
-                   id="line19509"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.662998"
-                   y1="156.01401"
-                   x2="31.367001"
-                   y2="138.522"
-                   id="line19511"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="59.901001"
-                   y1="159.064"
-                   x2="29.605"
-                   y2="141.573"
-                   id="line19513"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19515">
-            <defs
-               id="defs19517">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19519"
-                 d="m 68.708,143.812 h -30.12 c -0.1,10.59 5.84,20.88 15.061,26.09 l 15.059,-26.09" />
-            </defs>
-            <clipPath
-               id="clipPath19521">
-              <path
-                 d="m 68.708,143.812 h -30.12 c -0.1,10.59 5.84,20.88 15.061,26.09 l 15.059,-26.09"
-                 id="use19523"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_50_-8-2)"
-               id="g19525">
-              <g
-                 id="g19527">
-                <line
-                   x1="59.900002"
-                   y1="128.556"
-                   x2="29.604"
-                   y2="146.047"
-                   id="line19529"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.661999"
-                   y1="131.60699"
-                   x2="31.365999"
-                   y2="149.099"
-                   id="line19531"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.423"
-                   y1="134.657"
-                   x2="33.126999"
-                   y2="152.14799"
-                   id="line19533"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.184998"
-                   y1="137.709"
-                   x2="34.889"
-                   y2="155.19901"
-                   id="line19535"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.945999"
-                   y1="140.75999"
-                   x2="36.650002"
-                   y2="158.25"
-                   id="line19537"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="38.411999"
-                   y2="161.302"
-                   id="line19539"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.469002"
-                   y1="146.86099"
-                   x2="40.173"
-                   y2="164.353"
-                   id="line19541"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.230003"
-                   y1="149.912"
-                   x2="41.935001"
-                   y2="167.403"
-                   id="line19543"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="152.963"
-                   x2="43.695999"
-                   y2="170.45399"
-                   id="line19545"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.752998"
-                   y1="156.01401"
-                   x2="45.457001"
-                   y2="173.505"
-                   id="line19547"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="77.514999"
-                   y1="159.064"
-                   x2="47.219002"
-                   y2="176.556"
-                   id="line19549"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19551">
-            <defs
-               id="defs19553">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19555"
-                 d="m 40.814,143.768 c -0.019,4.856 1.265,9.741 3.7,13.958 2.422,4.225 5.962,7.788 10.17,10.239 l -1.172,2.01 c -4.561,-2.654 -8.391,-6.513 -11.016,-11.09 -2.639,-4.567 -4.031,-9.867 -4.01,-15.121 l 2.328,0.004 z" />
-            </defs>
-            <clipPath
-               id="clipPath19557">
-              <path
-                 d="m 40.814,143.768 c -0.019,4.856 1.265,9.741 3.7,13.958 2.422,4.225 5.962,7.788 10.17,10.239 l -1.172,2.01 c -4.561,-2.654 -8.391,-6.513 -11.016,-11.09 -2.639,-4.567 -4.031,-9.867 -4.01,-15.121 l 2.328,0.004 z"
-                 id="use19559"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_52_-4-6)"
-               id="g19561">
-              <g
-                 id="g19563">
-                <line
-                   x1="59.901001"
-                   y1="128.55701"
-                   x2="29.604"
-                   y2="146.048"
-                   id="line19565"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="61.662998"
-                   y1="131.60699"
-                   x2="31.365999"
-                   y2="149.10001"
-                   id="line19567"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="63.424"
-                   y1="134.658"
-                   x2="33.127998"
-                   y2="152.149"
-                   id="line19569"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="65.184998"
-                   y1="137.709"
-                   x2="34.889999"
-                   y2="155.2"
-                   id="line19571"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="66.945999"
-                   y1="140.75999"
-                   x2="36.650002"
-                   y2="158.252"
-                   id="line19573"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="38.411999"
-                   y2="161.30299"
-                   id="line19575"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="70.470001"
-                   y1="146.86099"
-                   x2="40.174"
-                   y2="164.354"
-                   id="line19577"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="72.231003"
-                   y1="149.91299"
-                   x2="41.935001"
-                   y2="167.40401"
-                   id="line19579"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="73.992996"
-                   y1="152.964"
-                   x2="43.695999"
-                   y2="170.455"
-                   id="line19581"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="75.754997"
-                   y1="156.015"
-                   x2="45.458"
-                   y2="173.506"
-                   id="line19583"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="77.514999"
-                   y1="159.065"
-                   x2="47.220001"
-                   y2="176.55701"
-                   id="line19585"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19587">
-            <defs
-               id="defs19589">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19591"
-                 d="m 55.739,121.27 c -3.934,2.268 -7.253,5.576 -9.529,9.506 -2.287,3.922 -3.506,8.464 -3.508,12.997 l -4.215,-0.009 c 0,-5.256 1.418,-10.551 4.077,-15.105 2.646,-4.565 6.495,-8.403 11.066,-11.039 l 2.109,3.65 z" />
-            </defs>
-            <clipPath
-               id="clipPath19593">
-              <path
-                 d="m 55.739,121.27 c -3.934,2.268 -7.253,5.576 -9.529,9.506 -2.287,3.922 -3.506,8.464 -3.508,12.997 l -4.215,-0.009 c 0,-5.256 1.418,-10.551 4.077,-15.105 2.646,-4.565 6.495,-8.403 11.066,-11.039 l 2.109,3.65 z"
-                 id="use19595"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_54_-1-1)"
-               id="g19597">
-              <g
-                 id="g19599">
-                <line
-                   x1="77.514999"
-                   y1="128.55701"
-                   x2="47.220001"
-                   y2="111.065"
-                   id="line19601"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="75.752998"
-                   y1="131.608"
-                   x2="45.458"
-                   y2="114.116"
-                   id="line19603"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="73.992996"
-                   y1="134.658"
-                   x2="43.695999"
-                   y2="117.167"
-                   id="line19605"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="72.231003"
-                   y1="137.709"
-                   x2="41.935001"
-                   y2="120.218"
-                   id="line19607"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="70.470001"
-                   y1="140.761"
-                   x2="40.174"
-                   y2="123.269"
-                   id="line19609"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="38.411999"
-                   y2="126.32"
-                   id="line19611"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="66.945999"
-                   y1="146.862"
-                   x2="36.650002"
-                   y2="129.37"
-                   id="line19613"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="65.184998"
-                   y1="149.91299"
-                   x2="34.889999"
-                   y2="132.422"
-                   id="line19615"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="63.424"
-                   y1="152.964"
-                   x2="33.127998"
-                   y2="135.47301"
-                   id="line19617"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="61.661999"
-                   y1="156.015"
-                   x2="31.365999"
-                   y2="138.52299"
-                   id="line19619"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="59.901001"
-                   y1="159.065"
-                   x2="29.604"
-                   y2="141.57401"
-                   id="line19621"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19623">
-            <defs
-               id="defs19625">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19627"
-                 d="m 80.806,122.912 c -3.645,-2.112 -7.851,-3.234 -12.061,-3.228 -4.211,-0.009 -8.418,1.11 -12.062,3.22 l -3.052,-5.285 c 4.563,-2.646 9.86,-4.052 15.116,-4.038 5.254,-0.011 10.551,1.398 15.113,4.047 l -3.054,5.284 z" />
-            </defs>
-            <clipPath
-               id="clipPath19629">
-              <path
-                 d="m 80.806,122.912 c -3.645,-2.112 -7.851,-3.234 -12.061,-3.228 -4.211,-0.009 -8.418,1.11 -12.062,3.22 l -3.052,-5.285 c 4.563,-2.646 9.86,-4.052 15.116,-4.038 5.254,-0.011 10.551,1.398 15.113,4.047 l -3.054,5.284 z"
-                 id="use19631"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_56_-1-7)"
-               id="g19633">
-              <g
-                 id="g19635">
-                <line
-                   x1="51.108002"
-                   y1="143.812"
-                   x2="51.108002"
-                   y2="108.829"
-                   id="line19637"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="54.631001"
-                   y1="143.812"
-                   x2="54.631001"
-                   y2="108.829"
-                   id="line19639"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="58.153999"
-                   y1="143.812"
-                   x2="58.153999"
-                   y2="108.829"
-                   id="line19641"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="61.676998"
-                   y1="143.812"
-                   x2="61.676998"
-                   y2="108.829"
-                   id="line19643"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="65.199997"
-                   y1="143.812"
-                   x2="65.199997"
-                   y2="108.829"
-                   id="line19645"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="68.723"
-                   y1="143.812"
-                   x2="68.723"
-                   y2="108.829"
-                   id="line19647"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="72.246002"
-                   y1="143.812"
-                   x2="72.246002"
-                   y2="108.829"
-                   id="line19649"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="75.768997"
-                   y1="143.812"
-                   x2="75.768997"
-                   y2="108.829"
-                   id="line19651"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="79.291"
-                   y1="143.812"
-                   x2="79.291"
-                   y2="108.829"
-                   id="line19653"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="82.814003"
-                   y1="143.812"
-                   x2="82.814003"
-                   y2="108.829"
-                   id="line19655"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="86.336998"
-                   y1="143.812"
-                   x2="86.336998"
-                   y2="108.829"
-                   id="line19657"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19659">
-            <defs
-               id="defs19661">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19663"
-                 d="m 90.997,143.794 c 0,-3.888 -1.037,-7.756 -2.99,-11.111 -1.943,-3.36 -4.785,-6.196 -8.146,-8.136 l 4,-6.919 c 4.57,2.638 8.416,6.479 11.061,11.045 2.656,4.558 4.07,9.853 4.068,15.107 l -7.993,0.014 z" />
-            </defs>
-            <clipPath
-               id="clipPath19665">
-              <path
-                 d="m 90.997,143.794 c 0,-3.888 -1.037,-7.756 -2.99,-11.111 -1.943,-3.36 -4.785,-6.196 -8.146,-8.136 l 4,-6.919 c 4.57,2.638 8.416,6.479 11.061,11.045 2.656,4.558 4.07,9.853 4.068,15.107 l -7.993,0.014 z"
-                 id="use19667"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_58_-1-2)"
-               id="g19669">
-              <g
-                 id="g19671">
-                <line
-                   x1="59.901001"
-                   y1="128.55701"
-                   x2="90.195999"
-                   y2="111.065"
-                   id="line19673"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="61.662998"
-                   y1="131.608"
-                   x2="91.958"
-                   y2="114.116"
-                   id="line19675"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="63.424"
-                   y1="134.658"
-                   x2="93.720001"
-                   y2="117.167"
-                   id="line19677"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="65.184998"
-                   y1="137.709"
-                   x2="95.481003"
-                   y2="120.218"
-                   id="line19679"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="66.945999"
-                   y1="140.761"
-                   x2="97.242996"
-                   y2="123.269"
-                   id="line19681"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="99.004997"
-                   y2="126.32"
-                   id="line19683"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="70.470001"
-                   y1="146.862"
-                   x2="100.767"
-                   y2="129.37"
-                   id="line19685"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="72.231003"
-                   y1="149.91299"
-                   x2="102.526"
-                   y2="132.422"
-                   id="line19687"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="73.992996"
-                   y1="152.964"
-                   x2="104.288"
-                   y2="135.47301"
-                   id="line19689"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="75.754997"
-                   y1="156.015"
-                   x2="106.05"
-                   y2="138.52299"
-                   id="line19691"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="77.514999"
-                   y1="159.065"
-                   x2="107.812"
-                   y2="141.57401"
-                   id="line19693"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19695">
-            <defs
-               id="defs19697">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19699"
-                 d="m 78.976,161.447 c 3.07,-1.785 5.664,-4.395 7.432,-7.475 1.777,-3.077 2.711,-6.611 2.701,-10.176 l 9.881,-0.017 c 0.018,5.255 -1.377,10.554 -4.02,15.12 -2.627,4.576 -6.461,8.43 -11.021,11.084 l -4.973,-8.536 z" />
-            </defs>
-            <clipPath
-               id="clipPath19701">
-              <path
-                 d="m 78.976,161.447 c 3.07,-1.785 5.664,-4.395 7.432,-7.475 1.777,-3.077 2.711,-6.611 2.701,-10.176 l 9.881,-0.017 c 0.018,5.255 -1.377,10.554 -4.02,15.12 -2.627,4.576 -6.461,8.43 -11.021,11.084 l -4.973,-8.536 z"
-                 id="use19703"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_60_-9-8)"
-               id="g19705">
-              <g
-                 id="g19707">
-                <line
-                   x1="77.514999"
-                   y1="128.55701"
-                   x2="107.812"
-                   y2="146.048"
-                   id="line19709"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="75.752998"
-                   y1="131.60699"
-                   x2="106.05"
-                   y2="149.10001"
-                   id="line19711"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="73.992996"
-                   y1="134.658"
-                   x2="104.288"
-                   y2="152.149"
-                   id="line19713"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="72.231003"
-                   y1="137.709"
-                   x2="102.526"
-                   y2="155.2"
-                   id="line19715"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="70.470001"
-                   y1="140.75999"
-                   x2="100.767"
-                   y2="158.252"
-                   id="line19717"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="99.004997"
-                   y2="161.30299"
-                   id="line19719"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="66.945999"
-                   y1="146.86099"
-                   x2="97.242996"
-                   y2="164.354"
-                   id="line19721"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="65.184998"
-                   y1="149.91299"
-                   x2="95.481003"
-                   y2="167.40401"
-                   id="line19723"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="63.424"
-                   y1="152.964"
-                   x2="93.720001"
-                   y2="170.455"
-                   id="line19725"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="61.661999"
-                   y1="156.015"
-                   x2="91.958"
-                   y2="173.506"
-                   id="line19727"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="59.901001"
-                   y1="159.065"
-                   x2="90.195999"
-                   y2="176.55701"
-                   id="line19729"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <path
-         sodipodi:type="arc"
-         style="opacity:0;fill:none;stroke:#000000;stroke-width:0.75681657;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="path19731"
-         sodipodi:cx="-22.728432"
-         sodipodi:cy="40.884327"
-         sodipodi:rx="25.75889"
-         sodipodi:ry="25.001276"
-         d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
-         transform="matrix(1.1716161,0,0,1.207031,74.863779,-1.1407181)" />
-    </g>
-    <g
-       transform="translate(202.42319,582.60061)"
-       id="g19745">
-      <g
-         style="display:inline"
-         id="g19747"
-         transform="translate(-58.066352,15.932294)">
-        <g
-           transform="translate(37.580586,-111.51319)"
-           id="g19749"
-           style="display:inline">
-          <g
-             id="g19751">
-            <defs
-               id="defs19753">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19755"
-                 d="m 68.708,143.812 -15.03,-26.11 c 9.07,-5.399 21.021,-5.289 30.12,0.021 l -15.09,26.089" />
-            </defs>
-            <clipPath
-               id="clipPath19757">
-              <path
-                 d="m 68.708,143.812 -15.03,-26.11 c 9.07,-5.399 21.021,-5.289 30.12,0.021 l -15.09,26.089"
-                 id="use19759"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_42_-3-8)"
-               id="g19761">
-              <g
-                 id="g19763">
-                <line
-                   x1="51.108002"
-                   y1="143.812"
-                   x2="51.108002"
-                   y2="108.829"
-                   id="line19765"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="54.631001"
-                   y1="143.812"
-                   x2="54.631001"
-                   y2="108.829"
-                   id="line19767"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="58.153999"
-                   y1="143.812"
-                   x2="58.153999"
-                   y2="108.829"
-                   id="line19769"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.676998"
-                   y1="143.812"
-                   x2="61.676998"
-                   y2="108.829"
-                   id="line19771"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.199997"
-                   y1="143.812"
-                   x2="65.199997"
-                   y2="108.829"
-                   id="line19773"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.723"
-                   y1="143.812"
-                   x2="68.723"
-                   y2="108.829"
-                   id="line19775"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.246002"
-                   y1="143.812"
-                   x2="72.246002"
-                   y2="108.829"
-                   id="line19777"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.768997"
-                   y1="143.812"
-                   x2="75.768997"
-                   y2="108.829"
-                   id="line19779"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="79.291"
-                   y1="143.812"
-                   x2="79.291"
-                   y2="108.829"
-                   id="line19781"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="82.814003"
-                   y1="143.812"
-                   x2="82.814003"
-                   y2="108.829"
-                   id="line19783"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="86.336998"
-                   y1="143.812"
-                   x2="86.336998"
-                   y2="108.829"
-                   id="line19785"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19787">
-            <defs
-               id="defs19789">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19791"
-                 d="m 68.708,143.812 15.08,-26.101 c 9.141,5.24 15.201,15.541 15.041,26.101 H 68.708" />
-            </defs>
-            <clipPath
-               id="clipPath19793">
-              <path
-                 d="m 68.708,143.812 15.08,-26.101 c 9.141,5.24 15.201,15.541 15.041,26.101 H 68.708"
-                 id="use19795"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_44_-0-2)"
-               id="g19797">
-              <g
-                 id="g19799">
-                <line
-                   x1="59.900002"
-                   y1="128.556"
-                   x2="90.195999"
-                   y2="111.064"
-                   id="line19801"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.661999"
-                   y1="131.60699"
-                   x2="91.958"
-                   y2="114.116"
-                   id="line19803"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.423"
-                   y1="134.657"
-                   x2="93.720001"
-                   y2="117.166"
-                   id="line19805"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.184998"
-                   y1="137.70799"
-                   x2="95.481003"
-                   y2="120.218"
-                   id="line19807"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.945999"
-                   y1="140.759"
-                   x2="97.242996"
-                   y2="123.269"
-                   id="line19809"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="99.004997"
-                   y2="126.319"
-                   id="line19811"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.469002"
-                   y1="146.86099"
-                   x2="100.765"
-                   y2="129.37"
-                   id="line19813"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.230003"
-                   y1="149.912"
-                   x2="102.526"
-                   y2="132.42101"
-                   id="line19815"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="152.963"
-                   x2="104.288"
-                   y2="135.472"
-                   id="line19817"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.752998"
-                   y1="156.01401"
-                   x2="106.05"
-                   y2="138.522"
-                   id="line19819"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="77.514999"
-                   y1="159.064"
-                   x2="107.812"
-                   y2="141.573"
-                   id="line19821"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19823">
-            <defs
-               id="defs19825">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19827"
-                 d="m 68.708,143.812 h 30.121 c 0.1,10.59 -5.84,20.88 -15.061,26.09 l -15.06,-26.09" />
-            </defs>
-            <clipPath
-               id="clipPath19829">
-              <path
-                 d="m 68.708,143.812 h 30.121 c 0.1,10.59 -5.84,20.88 -15.061,26.09 l -15.06,-26.09"
-                 id="use19831"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_46_-0-9)"
-               id="g19833">
-              <g
-                 id="g19835">
-                <line
-                   x1="77.516998"
-                   y1="128.556"
-                   x2="107.812"
-                   y2="146.047"
-                   id="line19837"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.754997"
-                   y1="131.60699"
-                   x2="106.05"
-                   y2="149.099"
-                   id="line19839"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="134.657"
-                   x2="104.29"
-                   y2="152.14799"
-                   id="line19841"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.231003"
-                   y1="137.709"
-                   x2="102.528"
-                   y2="155.19901"
-                   id="line19843"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.470001"
-                   y1="140.75999"
-                   x2="100.767"
-                   y2="158.25"
-                   id="line19845"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="99.004997"
-                   y2="161.302"
-                   id="line19847"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.946999"
-                   y1="146.86099"
-                   x2="97.242996"
-                   y2="164.353"
-                   id="line19849"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.185997"
-                   y1="149.912"
-                   x2="95.481003"
-                   y2="167.403"
-                   id="line19851"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.424"
-                   y1="152.963"
-                   x2="93.720001"
-                   y2="170.45399"
-                   id="line19853"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.662998"
-                   y1="156.01401"
-                   x2="91.959999"
-                   y2="173.505"
-                   id="line19855"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="59.901001"
-                   y1="159.064"
-                   x2="90.197998"
-                   y2="176.556"
-                   id="line19857"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19859">
-            <defs
-               id="defs19861">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19863"
-                 d="m 68.708,143.812 -15.08,-26.101 c -9.14,5.24 -15.2,15.541 -15.04,26.101 h 30.12" />
-            </defs>
-            <clipPath
-               id="clipPath19865">
-              <path
-                 d="m 68.708,143.812 -15.08,-26.101 c -9.14,5.24 -15.2,15.541 -15.04,26.101 h 30.12"
-                 id="use19867"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_48_-6-1)"
-               id="g19869">
-              <g
-                 id="g19871">
-                <line
-                   x1="77.516998"
-                   y1="128.556"
-                   x2="47.220001"
-                   y2="111.064"
-                   id="line19873"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.754997"
-                   y1="131.60699"
-                   x2="45.458"
-                   y2="114.116"
-                   id="line19875"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="134.657"
-                   x2="43.696999"
-                   y2="117.166"
-                   id="line19877"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.231003"
-                   y1="137.70799"
-                   x2="41.936001"
-                   y2="120.218"
-                   id="line19879"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.470001"
-                   y1="140.759"
-                   x2="40.174"
-                   y2="123.269"
-                   id="line19881"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="38.411999"
-                   y2="126.319"
-                   id="line19883"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.946999"
-                   y1="146.86099"
-                   x2="36.651001"
-                   y2="129.37"
-                   id="line19885"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.185997"
-                   y1="149.912"
-                   x2="34.889999"
-                   y2="132.42101"
-                   id="line19887"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.424"
-                   y1="152.963"
-                   x2="33.127998"
-                   y2="135.472"
-                   id="line19889"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.662998"
-                   y1="156.01401"
-                   x2="31.367001"
-                   y2="138.522"
-                   id="line19891"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="59.901001"
-                   y1="159.064"
-                   x2="29.605"
-                   y2="141.573"
-                   id="line19893"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19895">
-            <defs
-               id="defs19897">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19899"
-                 d="m 68.708,143.812 h -30.12 c -0.1,10.59 5.84,20.88 15.061,26.09 l 15.059,-26.09" />
-            </defs>
-            <clipPath
-               id="clipPath19901">
-              <path
-                 d="m 68.708,143.812 h -30.12 c -0.1,10.59 5.84,20.88 15.061,26.09 l 15.059,-26.09"
-                 id="use19903"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_50_-8-2)"
-               id="g19905">
-              <g
-                 id="g19907">
-                <line
-                   x1="59.900002"
-                   y1="128.556"
-                   x2="29.604"
-                   y2="146.047"
-                   id="line19909"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="61.661999"
-                   y1="131.60699"
-                   x2="31.365999"
-                   y2="149.099"
-                   id="line19911"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="63.423"
-                   y1="134.657"
-                   x2="33.126999"
-                   y2="152.14799"
-                   id="line19913"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="65.184998"
-                   y1="137.709"
-                   x2="34.889"
-                   y2="155.19901"
-                   id="line19915"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="66.945999"
-                   y1="140.75999"
-                   x2="36.650002"
-                   y2="158.25"
-                   id="line19917"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="68.708"
-                   y1="143.811"
-                   x2="38.411999"
-                   y2="161.302"
-                   id="line19919"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="70.469002"
-                   y1="146.86099"
-                   x2="40.173"
-                   y2="164.353"
-                   id="line19921"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="72.230003"
-                   y1="149.912"
-                   x2="41.935001"
-                   y2="167.403"
-                   id="line19923"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="73.992996"
-                   y1="152.963"
-                   x2="43.695999"
-                   y2="170.45399"
-                   id="line19925"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="75.752998"
-                   y1="156.01401"
-                   x2="45.457001"
-                   y2="173.505"
-                   id="line19927"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-                <line
-                   x1="77.514999"
-                   y1="159.064"
-                   x2="47.219002"
-                   y2="176.556"
-                   id="line19929"
-                   style="fill:none;stroke:#000000;stroke-width:0.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19931">
-            <defs
-               id="defs19933">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19935"
-                 d="m 40.814,143.768 c -0.019,4.856 1.265,9.741 3.7,13.958 2.422,4.225 5.962,7.788 10.17,10.239 l -1.172,2.01 c -4.561,-2.654 -8.391,-6.513 -11.016,-11.09 -2.639,-4.567 -4.031,-9.867 -4.01,-15.121 l 2.328,0.004 z" />
-            </defs>
-            <clipPath
-               id="clipPath19937">
-              <path
-                 d="m 40.814,143.768 c -0.019,4.856 1.265,9.741 3.7,13.958 2.422,4.225 5.962,7.788 10.17,10.239 l -1.172,2.01 c -4.561,-2.654 -8.391,-6.513 -11.016,-11.09 -2.639,-4.567 -4.031,-9.867 -4.01,-15.121 l 2.328,0.004 z"
-                 id="use19939"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_52_-4-6)"
-               id="g19941">
-              <g
-                 id="g19943">
-                <line
-                   x1="59.901001"
-                   y1="128.55701"
-                   x2="29.604"
-                   y2="146.048"
-                   id="line19945"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="61.662998"
-                   y1="131.60699"
-                   x2="31.365999"
-                   y2="149.10001"
-                   id="line19947"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="63.424"
-                   y1="134.658"
-                   x2="33.127998"
-                   y2="152.149"
-                   id="line19949"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="65.184998"
-                   y1="137.709"
-                   x2="34.889999"
-                   y2="155.2"
-                   id="line19951"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="66.945999"
-                   y1="140.75999"
-                   x2="36.650002"
-                   y2="158.252"
-                   id="line19953"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="38.411999"
-                   y2="161.30299"
-                   id="line19955"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="70.470001"
-                   y1="146.86099"
-                   x2="40.174"
-                   y2="164.354"
-                   id="line19957"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="72.231003"
-                   y1="149.91299"
-                   x2="41.935001"
-                   y2="167.40401"
-                   id="line19959"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="73.992996"
-                   y1="152.964"
-                   x2="43.695999"
-                   y2="170.455"
-                   id="line19961"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="75.754997"
-                   y1="156.015"
-                   x2="45.458"
-                   y2="173.506"
-                   id="line19963"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-                <line
-                   x1="77.514999"
-                   y1="159.065"
-                   x2="47.220001"
-                   y2="176.55701"
-                   id="line19965"
-                   style="fill:none;stroke:#000000;stroke-width:1.5" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g19967">
-            <defs
-               id="defs19969">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path19971"
-                 d="m 55.739,121.27 c -3.934,2.268 -7.253,5.576 -9.529,9.506 -2.287,3.922 -3.506,8.464 -3.508,12.997 l -4.215,-0.009 c 0,-5.256 1.418,-10.551 4.077,-15.105 2.646,-4.565 6.495,-8.403 11.066,-11.039 l 2.109,3.65 z" />
-            </defs>
-            <clipPath
-               id="clipPath19973">
-              <path
-                 d="m 55.739,121.27 c -3.934,2.268 -7.253,5.576 -9.529,9.506 -2.287,3.922 -3.506,8.464 -3.508,12.997 l -4.215,-0.009 c 0,-5.256 1.418,-10.551 4.077,-15.105 2.646,-4.565 6.495,-8.403 11.066,-11.039 l 2.109,3.65 z"
-                 id="use19975"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_54_-1-1)"
-               id="g19977">
-              <g
-                 id="g19979">
-                <line
-                   x1="77.514999"
-                   y1="128.55701"
-                   x2="47.220001"
-                   y2="111.065"
-                   id="line19981"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="75.752998"
-                   y1="131.608"
-                   x2="45.458"
-                   y2="114.116"
-                   id="line19983"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="73.992996"
-                   y1="134.658"
-                   x2="43.695999"
-                   y2="117.167"
-                   id="line19985"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="72.231003"
-                   y1="137.709"
-                   x2="41.935001"
-                   y2="120.218"
-                   id="line19987"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="70.470001"
-                   y1="140.761"
-                   x2="40.174"
-                   y2="123.269"
-                   id="line19989"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="38.411999"
-                   y2="126.32"
-                   id="line19991"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="66.945999"
-                   y1="146.862"
-                   x2="36.650002"
-                   y2="129.37"
-                   id="line19993"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="65.184998"
-                   y1="149.91299"
-                   x2="34.889999"
-                   y2="132.422"
-                   id="line19995"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="63.424"
-                   y1="152.964"
-                   x2="33.127998"
-                   y2="135.47301"
-                   id="line19997"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="61.661999"
-                   y1="156.015"
-                   x2="31.365999"
-                   y2="138.52299"
-                   id="line19999"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-                <line
-                   x1="59.901001"
-                   y1="159.065"
-                   x2="29.604"
-                   y2="141.57401"
-                   id="line20001"
-                   style="fill:none;stroke:#000000;stroke-width:1.75" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g20003">
-            <defs
-               id="defs20005">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path20007"
-                 d="m 80.806,122.912 c -3.645,-2.112 -7.851,-3.234 -12.061,-3.228 -4.211,-0.009 -8.418,1.11 -12.062,3.22 l -3.052,-5.285 c 4.563,-2.646 9.86,-4.052 15.116,-4.038 5.254,-0.011 10.551,1.398 15.113,4.047 l -3.054,5.284 z" />
-            </defs>
-            <clipPath
-               id="clipPath20009">
-              <path
-                 d="m 80.806,122.912 c -3.645,-2.112 -7.851,-3.234 -12.061,-3.228 -4.211,-0.009 -8.418,1.11 -12.062,3.22 l -3.052,-5.285 c 4.563,-2.646 9.86,-4.052 15.116,-4.038 5.254,-0.011 10.551,1.398 15.113,4.047 l -3.054,5.284 z"
-                 id="use20011"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_56_-1-7)"
-               id="g20013">
-              <g
-                 id="g20015">
-                <line
-                   x1="51.108002"
-                   y1="143.812"
-                   x2="51.108002"
-                   y2="108.829"
-                   id="line20017"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="54.631001"
-                   y1="143.812"
-                   x2="54.631001"
-                   y2="108.829"
-                   id="line20019"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="58.153999"
-                   y1="143.812"
-                   x2="58.153999"
-                   y2="108.829"
-                   id="line20021"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="61.676998"
-                   y1="143.812"
-                   x2="61.676998"
-                   y2="108.829"
-                   id="line20023"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="65.199997"
-                   y1="143.812"
-                   x2="65.199997"
-                   y2="108.829"
-                   id="line20025"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="68.723"
-                   y1="143.812"
-                   x2="68.723"
-                   y2="108.829"
-                   id="line20027"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="72.246002"
-                   y1="143.812"
-                   x2="72.246002"
-                   y2="108.829"
-                   id="line20029"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="75.768997"
-                   y1="143.812"
-                   x2="75.768997"
-                   y2="108.829"
-                   id="line20031"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="79.291"
-                   y1="143.812"
-                   x2="79.291"
-                   y2="108.829"
-                   id="line20033"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="82.814003"
-                   y1="143.812"
-                   x2="82.814003"
-                   y2="108.829"
-                   id="line20035"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-                <line
-                   x1="86.336998"
-                   y1="143.812"
-                   x2="86.336998"
-                   y2="108.829"
-                   id="line20037"
-                   style="fill:none;stroke:#000000;stroke-width:2" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g20039">
-            <defs
-               id="defs20041">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path20043"
-                 d="m 90.997,143.794 c 0,-3.888 -1.037,-7.756 -2.99,-11.111 -1.943,-3.36 -4.785,-6.196 -8.146,-8.136 l 4,-6.919 c 4.57,2.638 8.416,6.479 11.061,11.045 2.656,4.558 4.07,9.853 4.068,15.107 l -7.993,0.014 z" />
-            </defs>
-            <clipPath
-               id="clipPath20045">
-              <path
-                 d="m 90.997,143.794 c 0,-3.888 -1.037,-7.756 -2.99,-11.111 -1.943,-3.36 -4.785,-6.196 -8.146,-8.136 l 4,-6.919 c 4.57,2.638 8.416,6.479 11.061,11.045 2.656,4.558 4.07,9.853 4.068,15.107 l -7.993,0.014 z"
-                 id="use20047"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_58_-1-2)"
-               id="g20049">
-              <g
-                 id="g20051">
-                <line
-                   x1="59.901001"
-                   y1="128.55701"
-                   x2="90.195999"
-                   y2="111.065"
-                   id="line20053"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="61.662998"
-                   y1="131.608"
-                   x2="91.958"
-                   y2="114.116"
-                   id="line20055"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="63.424"
-                   y1="134.658"
-                   x2="93.720001"
-                   y2="117.167"
-                   id="line20057"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="65.184998"
-                   y1="137.709"
-                   x2="95.481003"
-                   y2="120.218"
-                   id="line20059"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="66.945999"
-                   y1="140.761"
-                   x2="97.242996"
-                   y2="123.269"
-                   id="line20061"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="99.004997"
-                   y2="126.32"
-                   id="line20063"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="70.470001"
-                   y1="146.862"
-                   x2="100.767"
-                   y2="129.37"
-                   id="line20065"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="72.231003"
-                   y1="149.91299"
-                   x2="102.526"
-                   y2="132.422"
-                   id="line20067"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="73.992996"
-                   y1="152.964"
-                   x2="104.288"
-                   y2="135.47301"
-                   id="line20069"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="75.754997"
-                   y1="156.015"
-                   x2="106.05"
-                   y2="138.52299"
-                   id="line20071"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-                <line
-                   x1="77.514999"
-                   y1="159.065"
-                   x2="107.812"
-                   y2="141.57401"
-                   id="line20073"
-                   style="fill:none;stroke:#000000;stroke-width:2.25" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="g20075">
-            <defs
-               id="defs20077">
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path20079"
-                 d="m 78.976,161.447 c 3.07,-1.785 5.664,-4.395 7.432,-7.475 1.777,-3.077 2.711,-6.611 2.701,-10.176 l 9.881,-0.017 c 0.018,5.255 -1.377,10.554 -4.02,15.12 -2.627,4.576 -6.461,8.43 -11.021,11.084 l -4.973,-8.536 z" />
-            </defs>
-            <clipPath
-               id="clipPath20081">
-              <path
-                 d="m 78.976,161.447 c 3.07,-1.785 5.664,-4.395 7.432,-7.475 1.777,-3.077 2.711,-6.611 2.701,-10.176 l 9.881,-0.017 c 0.018,5.255 -1.377,10.554 -4.02,15.12 -2.627,4.576 -6.461,8.43 -11.021,11.084 l -4.973,-8.536 z"
-                 id="use20083"
-                 inkscape:connector-curvature="0" />
-            </clipPath>
-            <g
-               clip-path="url(#SVGID_60_-9-8)"
-               id="g20085">
-              <g
-                 id="g20087">
-                <line
-                   x1="77.514999"
-                   y1="128.55701"
-                   x2="107.812"
-                   y2="146.048"
-                   id="line20089"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="75.752998"
-                   y1="131.60699"
-                   x2="106.05"
-                   y2="149.10001"
-                   id="line20091"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="73.992996"
-                   y1="134.658"
-                   x2="104.288"
-                   y2="152.149"
-                   id="line20093"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="72.231003"
-                   y1="137.709"
-                   x2="102.526"
-                   y2="155.2"
-                   id="line20095"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="70.470001"
-                   y1="140.75999"
-                   x2="100.767"
-                   y2="158.252"
-                   id="line20097"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="68.708"
-                   y1="143.812"
-                   x2="99.004997"
-                   y2="161.30299"
-                   id="line20099"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="66.945999"
-                   y1="146.86099"
-                   x2="97.242996"
-                   y2="164.354"
-                   id="line20101"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="65.184998"
-                   y1="149.91299"
-                   x2="95.481003"
-                   y2="167.40401"
-                   id="line20103"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="63.424"
-                   y1="152.964"
-                   x2="93.720001"
-                   y2="170.455"
-                   id="line20105"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="61.661999"
-                   y1="156.015"
-                   x2="91.958"
-                   y2="173.506"
-                   id="line20107"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-                <line
-                   x1="59.901001"
-                   y1="159.065"
-                   x2="90.195999"
-                   y2="176.55701"
-                   id="line20109"
-                   style="fill:none;stroke:#000000;stroke-width:2.5" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <path
-         sodipodi:type="arc"
-         style="opacity:0;fill:none;stroke:#000000;stroke-width:0.75681657;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="path20111"
-         sodipodi:cx="-22.728432"
-         sodipodi:cy="40.884327"
-         sodipodi:rx="25.75889"
-         sodipodi:ry="25.001276"
-         d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
-         transform="matrix(1.1716161,0,0,1.207031,74.863779,-1.1407181)" />
     </g>
     <g
        id="g20417"
@@ -9747,7 +7630,7 @@
         </g>
         <path
            transform="matrix(1.5015283,0,0,1.4471132,122.72063,93.299388)"
-           d="m -95.964493,-22.755281 a 19.697975,20.455589 0 1 1 -39.395947,0 19.697975,20.455589 0 1 1 39.395947,0 z"
+           d="m -95.964493,-22.755281 c 0,11.29731 -8.819087,20.4555888 -19.697977,20.4555888 -10.87889,0 -19.69797,-9.1582788 -19.69797,-20.4555888 0,-11.29731 8.81908,-20.45559 19.69797,-20.45559 10.87889,0 19.697977,9.15828 19.697977,20.45559 z"
            sodipodi:ry="20.455589"
            sodipodi:rx="19.697975"
            sodipodi:cy="-22.755281"
@@ -9758,7 +7641,7 @@
       </g>
     </g>
     <g
-       transform="translate(112.42319,797.73673)"
+       transform="translate(-270.85978,791.28795)"
        id="g21351">
       <g
          style="display:inline"
@@ -10788,7 +8671,7 @@
          sodipodi:cy="40.884327"
          sodipodi:rx="25.75889"
          sodipodi:ry="25.001276"
-         d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
+         d="m 3.0304585,40.884327 c 0,13.807823 -11.532648,25.001276 -25.7588905,25.001276 -14.226242,0 -25.75889,-11.193453 -25.75889,-25.001276 0,-13.807824 11.532648,-25.001276 25.75889,-25.001276 14.2262425,0 25.7588905,11.193452 25.7588905,25.001276 z"
          transform="matrix(1.1716161,0,0,1.207031,74.863779,-1.1407181)" />
     </g>
     <g
@@ -11822,7 +9705,7 @@
          sodipodi:cy="40.884327"
          sodipodi:rx="25.75889"
          sodipodi:ry="25.001276"
-         d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
+         d="m 3.0304585,40.884327 c 0,13.807823 -11.532648,25.001276 -25.7588905,25.001276 -14.226242,0 -25.75889,-11.193453 -25.75889,-25.001276 0,-13.807824 11.532648,-25.001276 25.75889,-25.001276 14.2262425,0 25.7588905,11.193452 25.7588905,25.001276 z"
          transform="matrix(1.1716161,0,0,1.207031,74.863779,-1.1407181)" />
     </g>
     <text
@@ -11843,7 +9726,7 @@
        transform="translate(-182.90171,558.09979)" />
     <path
        transform="matrix(1.1393978,0,0,1.1393978,40.382879,950.84128)"
-       d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
+       d="m 43.689098,28.14192 c 0,9.797976 -7.942828,17.740805 -17.740804,17.740805 -9.797976,0 -17.740805,-7.942829 -17.740805,-17.740805 0,-9.797976 7.942829,-17.740805 17.740805,-17.740805 9.797976,0 17.740804,7.942829 17.740804,17.740805 z"
        sodipodi:ry="17.740805"
        sodipodi:rx="17.740805"
        sodipodi:cy="28.14192"
@@ -11859,7 +9742,7 @@
        sodipodi:cy="40.884327"
        sodipodi:rx="25.75889"
        sodipodi:ry="25.001276"
-       d="m 3.0304585,40.884327 a 25.75889,25.001276 0 1 1 -51.5177805,0 25.75889,25.001276 0 1 1 51.5177805,0 z"
+       d="m 3.0304585,40.884327 c 0,13.807823 -11.532648,25.001276 -25.7588905,25.001276 -14.226242,0 -25.75889,-11.193453 -25.75889,-25.001276 0,-13.807824 11.532648,-25.001276 25.75889,-25.001276 14.2262425,0 25.7588905,11.193452 25.7588905,25.001276 z"
        transform="matrix(1.1716161,0,0,1.207031,97.212549,437.42595)" />
     <path
        sodipodi:type="arc"
@@ -11869,7 +9752,7 @@
        sodipodi:cy="-22.755281"
        sodipodi:rx="19.697975"
        sodipodi:ry="20.455589"
-       d="m -95.964493,-22.755281 a 19.697975,20.455589 0 1 1 -39.395947,0 19.697975,20.455589 0 1 1 39.395947,0 z"
+       d="m -95.964493,-22.755281 c 0,11.29731 -8.819087,20.4555888 -19.697977,20.4555888 -10.87889,0 -19.69797,-9.1582788 -19.69797,-20.4555888 0,-11.29731 8.81908,-20.45559 19.69797,-20.45559 10.87889,0 19.697977,9.15828 19.697977,20.45559 z"
        transform="matrix(1.5015283,0,0,1.4471132,243.54548,591.98185)" />
     <path
        sodipodi:type="arc"
@@ -11880,9 +9763,9 @@
        sodipodi:rx="17.740805"
        sodipodi:ry="17.740805"
        d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
-       transform="matrix(1.1393978,0,0,1.1393978,220.30957,950.84808)" />
+       transform="matrix(1.1393978,0,0,1.1393978,132.59573,950.84814)" />
     <path
-       transform="matrix(1.1393978,0,0,1.1393978,220.30958,879.1361)"
+       transform="matrix(1.1393978,0,0,1.1393978,132.59574,879.13616)"
        d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
        sodipodi:ry="17.740805"
        sodipodi:rx="17.740805"
@@ -11900,31 +9783,11 @@
        sodipodi:rx="17.740805"
        sodipodi:ry="17.740805"
        d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
-       transform="matrix(1.1393978,0,0,1.1393978,130.30957,950.84816)" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:3.34832788;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="path19347"
-       sodipodi:cx="25.948294"
-       sodipodi:cy="28.14192"
-       sodipodi:rx="17.740805"
-       sodipodi:ry="17.740805"
-       d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
-       transform="matrix(1.1393978,0,0,1.1393978,220.30958,807.4241)" />
-    <path
-       transform="matrix(1.1393978,0,0,1.1393978,220.30957,735.71216)"
-       d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
-       sodipodi:ry="17.740805"
-       sodipodi:rx="17.740805"
-       sodipodi:cy="28.14192"
-       sodipodi:cx="25.948294"
-       id="path20129"
-       style="fill:none;stroke:#000000;stroke-width:3.34832788;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       sodipodi:type="arc" />
+       transform="matrix(1.1393978,0,0,1.1393978,-252.9734,944.39938)" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1.78872395;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:1.46180701;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect24347"
-       width="268.21301"
+       width="179.13203"
        height="628.20953"
        x="25.742964"
        y="416.53119" />
@@ -11936,19 +9799,19 @@
        x="25.334274"
        y="588.9563" />
     <rect
-       y="588.93524"
-       x="114.875"
-       height="142.98573"
-       width="89.999992"
+       y="589.08301"
+       x="115.02277"
+       height="250.40599"
+       width="89.704445"
        id="rect24353"
-       style="fill:none;stroke:#000000;stroke-width:0.92482328;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:none;stroke:#000000;stroke-width:1.22185743;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.94035721;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.76212806;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect24355"
-       width="89.911942"
-       height="313.14261"
-       x="114.95338"
-       y="731.99939" />
+       width="90.090172"
+       height="205.28265"
+       x="114.82992"
+       y="839.87006" />
     <rect
        y="731.93048"
        x="25.33289"
@@ -11956,13 +9819,74 @@
        width="89.534225"
        id="rect24357"
        style="fill:none;stroke:#000000;stroke-width:0.91894788;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.91093153;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect24359"
-       width="89.52272"
-       height="459.26306"
-       x="204.88931"
-       y="416.06763" />
+    <g
+       style="display:inline"
+       id="g17750"
+       transform="translate(373.62499,12.360185)">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#0000ff;stroke-width:0.12490913;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path17752"
+         sodipodi:cx="18.392857"
+         sodipodi:cy="87.321426"
+         sodipodi:rx="15.535714"
+         sodipodi:ry="15.535714"
+         d="m 33.928571,87.321426 c 0,8.580138 -6.955576,15.535714 -15.535714,15.535714 -8.5801384,0 -15.5357146,-6.955576 -15.5357146,-15.535714 0,-8.580138 6.9555762,-15.535714 15.5357146,-15.535714 8.580138,0 15.535714,6.955576 15.535714,15.535714 z"
+         transform="matrix(0.64592179,0,0,0.6459218,-225.63035,699.01403)" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.4068242;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         id="rect17754"
+         width="43.619324"
+         height="67.088722"
+         x="-235.55966"
+         y="322.01025"
+         transform="translate(0,399.8622)" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.9889766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -235.76086,330.43021 c 43.84494,0 44.02174,0 44.02174,0 l 0,0"
+         id="path17756"
+         inkscape:connector-curvature="0"
+         transform="translate(0,399.8622)" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.9889766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m -192.00431,380.28072 c -43.66816,0 -43.49136,0 -43.49136,0"
+         id="path17758"
+         inkscape:connector-curvature="0"
+         transform="translate(0,399.8622)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#ff0000;stroke-width:0.83904648;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path17760"
+         sodipodi:cx="-245.06024"
+         sodipodi:cy="-94.441971"
+         sodipodi:rx="30.361444"
+         sodipodi:ry="29.638554"
+         d="m -214.6988,-94.441971 c 0,16.368921 -13.59328,29.638554 -30.36144,29.638554 -16.76816,0 -30.36145,-13.269633 -30.36145,-29.638554 0,-16.368919 13.59329,-29.638549 30.36145,-29.638549 16.76816,0 30.36144,13.26963 30.36144,29.638549 z"
+         transform="matrix(0.5236804,0,0,0.5364527,-85.416743,806.0805)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Light"
+       x="153.23759"
+       y="735.91699"
+       id="text30351"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan30353"
+         x="153.23759"
+         y="735.91699">AC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Light"
+       x="140.58936"
+       y="403.57413"
+       id="text30355"
+       sodipodi:linespacing="125%"
+       transform="translate(13.625,402.125)"><tspan
+         sodipodi:role="line"
+         id="tspan30357"
+         x="140.58936"
+         y="403.57413">DC</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12077,122 +10001,63 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       x="258.45374"
-       y="556.26367"
+       x="170.7399"
+       y="556.26373"
        id="text18171"
        sodipodi:linespacing="125%"><tspan
          style="font-size:12px"
          sodipodi:role="line"
          id="tspan18173"
-         x="258.45374"
-         y="556.26367">SAW</tspan></text>
+         x="170.7399"
+         y="556.26373">SAW</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text18183"
-       y="484.55164"
-       x="213.84402"
+       y="484.5517"
+       x="126.13018"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
        xml:space="preserve"><tspan
-         y="484.55164"
-         x="213.84402"
+         y="484.5517"
+         x="126.13018"
          id="tspan18185"
          sodipodi:role="line"
          style="font-size:12px">SIN</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       x="169.01494"
-       y="556.26367"
+       x="-214.26804"
+       y="549.81488"
        id="text18195"
        sodipodi:linespacing="125%"><tspan
          style="font-size:12px"
          sodipodi:role="line"
          id="tspan18197"
-         x="169.01494"
-         y="556.26367">WAVE</tspan></text>
+         x="-214.26804"
+         y="549.81488">WAVE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text18955"
-       y="341.12073"
-       x="123.71493"
+       y="334.67194"
+       x="-259.56805"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
        xml:space="preserve"><tspan
          style="font-size:12px"
          id="tspan18957"
-         y="341.12073"
-         x="123.71493"
+         y="334.67194"
+         x="-259.56805"
          sodipodi:role="line">SHAPE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text19341"
-       y="484.55164"
-       x="146.23106"
+       y="478.10284"
+       x="-237.05191"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
        xml:space="preserve"><tspan
          style="font-size:12px"
-         y="484.55164"
-         x="146.23106"
+         y="478.10284"
+         x="-237.05191"
          id="tspan19343"
          sodipodi:role="line">SHAPE MOD</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       x="258.54083"
-       y="412.8327"
-       id="text19353"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:12px"
-         sodipodi:role="line"
-         id="tspan19355"
-         x="258.54083"
-         y="412.8327">STAIR</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       x="213.86906"
-       y="126.00629"
-       id="text19735"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="213.86906"
-         y="126.00629"
-         id="tspan19737"
-         style="font-size:12px"> SUB DIV</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text20123"
-       y="269.41565"
-       x="258.32907"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       xml:space="preserve"><tspan
-         y="269.41565"
-         x="258.32907"
-         id="tspan20125"
-         sodipodi:role="line">DIV CV</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text20135"
-       y="341.12073"
-       x="213.62756"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       xml:space="preserve"><tspan
-         y="341.12073"
-         x="213.62756"
-         id="tspan20137"
-         sodipodi:role="line"
-         style="font-size:12px">SUB</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text20145"
-       y="53.669682"
-       x="259.29404"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       xml:space="preserve"><tspan
-         style="font-size:12px"
-         y="53.669682"
-         x="259.29404"
-         id="tspan20147"
-         sodipodi:role="line"> SUB IN</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Light"
