@@ -3419,11 +3419,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="466.87372"
-     inkscape:cy="321.87418"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="786.66926"
+     inkscape:cy="386.38951"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="in"
      inkscape:window-width="1918"
@@ -3496,7 +3496,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55189,119 +55189,9 @@
          x="405.02249"
          id="tspan17440"
          sodipodi:role="line">VC PW</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="179.98199"
-       y="990.48474"
-       id="text12770"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12772"
-         x="179.98199"
-         y="990.48474">K STONE</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text12774"
-       y="990.48474"
-       x="359.96399"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       xml:space="preserve"><tspan
-         y="990.48474"
-         x="359.96399"
-         id="tspan12776"
-         sodipodi:role="line">K STONE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="539.94598"
-       y="990.48474"
-       id="text12778"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12780"
-         x="539.94598"
-         y="990.48474">K STONE</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text12782"
-       y="990.48474"
-       x="675"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       xml:space="preserve"><tspan
-         y="990.48474"
-         x="675"
-         id="tspan12784"
-         sodipodi:role="line">K STONE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="855"
-       y="990.48474"
-       id="text12786"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12788"
-         x="855"
-         y="990.48474">R SCHMITZ</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="765"
-       y="990.48474"
-       id="text12790"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12792"
-         x="765"
-         y="990.48474">N STEINER</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="989.901"
-       y="990.48474"
-       id="text12794"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12796"
-         x="989.901"
-         y="990.48474">S TCHEREPNIN</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text12798"
-       y="990.48474"
-       x="1169.8831"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       xml:space="preserve"><tspan
-         y="990.48474"
-         x="1169.8831"
-         id="tspan12800"
-         sodipodi:role="line">S TCHEREPNIN</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text12802"
-       y="990.48474"
-       x="1305"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       xml:space="preserve"><tspan
-         y="990.48474"
-         x="1305"
-         id="tspan12804"
-         sodipodi:role="line">K STONE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="1439.856"
-       y="990.48474"
-       id="text12806"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12808"
-         x="1439.856"
-         y="990.48474">K STONE</tspan></text>
     <path
        transform="matrix(0.92810784,0,0,0.92811443,1203.3704,742.21414)"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="267.5"
@@ -55317,11 +55207,11 @@
        sodipodi:cy="267.5"
        sodipodi:rx="6.7857141"
        sodipodi:ry="6.7857141"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        transform="matrix(0.92810784,0,0,0.92811443,1203.3704,147.11872)" />
     <path
        transform="matrix(0.6623476,0,0,0.66238179,1090.7071,766.57539)"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="267.5"
@@ -55331,7 +55221,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.6623476,0,0,0.66238179,1090.6651,254.65539)"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="267.5"
@@ -55339,5 +55229,131 @@
        id="path12827"
        style="fill:none;stroke:#000000;stroke-width:0.10953277;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="authors"
+     style="display:inline">
+    <text
+       transform="translate(0,-332.35975)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       x="179.98199"
+       y="990.48474"
+       id="text12770"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12772"
+         x="179.98199"
+         y="990.48474">K STONE</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       sodipodi:linespacing="125%"
+       id="text12774"
+       y="990.48474"
+       x="359.96399"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       xml:space="preserve"><tspan
+         y="990.48474"
+         x="359.96399"
+         id="tspan12776"
+         sodipodi:role="line">K STONE</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       x="539.94598"
+       y="990.48474"
+       id="text12778"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12780"
+         x="539.94598"
+         y="990.48474">K STONE</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       sodipodi:linespacing="125%"
+       id="text12782"
+       y="990.48474"
+       x="675"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       xml:space="preserve"><tspan
+         y="990.48474"
+         x="675"
+         id="tspan12784"
+         sodipodi:role="line">K STONE</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       x="855"
+       y="990.48474"
+       id="text12786"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12788"
+         x="855"
+         y="990.48474">R SCHMITZ</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       x="765"
+       y="990.48474"
+       id="text12790"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12792"
+         x="765"
+         y="990.48474">N STEINER</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       x="989.901"
+       y="990.48474"
+       id="text12794"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12796"
+         x="989.901"
+         y="990.48474">S TCHEREPNIN</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       sodipodi:linespacing="125%"
+       id="text12798"
+       y="990.48474"
+       x="1169.8831"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       xml:space="preserve"><tspan
+         y="990.48474"
+         x="1169.8831"
+         id="tspan12800"
+         sodipodi:role="line">S TCHEREPNIN</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       sodipodi:linespacing="125%"
+       id="text12802"
+       y="990.48474"
+       x="1305"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       xml:space="preserve"><tspan
+         y="990.48474"
+         x="1305"
+         id="tspan12804"
+         sodipodi:role="line">K STONE</tspan></text>
+    <text
+       transform="translate(0,-332.35975)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
+       x="1439.856"
+       y="990.48474"
+       id="text12806"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12808"
+         x="1439.856"
+         y="990.48474">K STONE</tspan></text>
   </g>
 </svg>
