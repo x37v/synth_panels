@@ -10,7 +10,7 @@ Switches used on the VCS needed 1/4" holes
 
 SERGE:
 
-mounting holes: 0.1875 diameter
+mounting holes: 0.15625 diameter
 	1 inch from side
 	0.1875 from bottom
 	6 & 19/32 inch vertically from center to center
