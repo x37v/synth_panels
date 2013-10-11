@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -102,7 +102,7 @@
      transform="translate(-67.050374,-612.70975)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0918;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 85.058619,632.39238 84.6,965.62675 l 68.85,0 0,-192.78 206.55,0 0,192.78 68.85,0 0,-192.78 137.7,0 0,192.78 68.85,0 0,-333.23437 z"
+       d="m 85.058619,632.39238 -0.458245,330.41698 68.849626,0 0,-189.96261 206.55,0 0,189.96261 68.85,0 0,-189.96261 137.7,0 0,189.96261 68.85,0 0,-330.41698 z"
        id="rect2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
