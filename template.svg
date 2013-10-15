@@ -3210,8 +3210,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="55.16723"
-     inkscape:cy="241.25258"
+     inkscape:cx="32.22973"
+     inkscape:cy="91.25258"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3379,7 +3379,7 @@
          id="tspan9176"
          x="135.29109"
          y="409.34674"
-         style="font-size:20px;text-align:center;text-anchor:middle">TEMPLATE</tspan></text>
+         style="font-size:20px;text-align:center;text-anchor:middle">TEMPL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Light"
@@ -3393,16 +3393,16 @@
          x="1140.7144"
          y="282.85715" /></text>
     <g
-       id="g5129">
+       id="g5122">
       <path
          sodipodi:type="arc"
-         style="fill:#000000;stroke:none;stroke-width:4.76611233000000034;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
          id="path9682"
          sodipodi:cx="25.948294"
          sodipodi:cy="28.14192"
          sodipodi:rx="17.740805"
          sodipodi:ry="17.740805"
-         d="m 43.689098,28.14192 c 0,9.797976 -7.942828,17.740805 -17.740804,17.740805 -9.797976,0 -17.740805,-7.942829 -17.740805,-17.740805 0,-9.797976 7.942829,-17.740805 17.740805,-17.740805 9.797976,0 17.740804,7.942829 17.740804,17.740805 z"
+         d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
          transform="matrix(1.6771136,0,0,1.6771136,91.481764,403.28755)" />
       <rect
          y="473.72064"
@@ -3413,16 +3413,16 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
          transform="matrix(1.0037713,0,0,1.0037713,108.95385,422.23667)"
-         d="m 43.689098,28.14192 c 0,9.797976 -7.942828,17.740805 -17.740804,17.740805 -9.797976,0 -17.740805,-7.942829 -17.740805,-17.740805 0,-9.797976 7.942829,-17.740805 17.740805,-17.740805 9.797976,0 17.740804,7.942829 17.740804,17.740805 z"
+         d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
          sodipodi:ry="17.740805"
          sodipodi:rx="17.740805"
          sodipodi:cy="28.14192"
          sodipodi:cx="25.948294"
          id="path8738"
-         style="fill:#ffffff;stroke:#ff0000;stroke-width:3.34832787999999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.34832787999999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:type="arc" />
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.09000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m 126.25,439.81286 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
          id="rect2986"
          inkscape:connector-curvature="0" />
@@ -6096,6 +6096,17 @@
            id="tspan4330"
            sodipodi:role="line">SWITCH</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
+       x="135"
+       y="990.48474"
+       id="text5130"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5132"
+         x="135"
+         y="990.48474">XNOR</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
