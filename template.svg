@@ -14,7 +14,7 @@
    height="680.64752"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="template.svg"
    inkscape:export-filename="/home/alex/projects/panels/synth_panels/animalish.png"
    inkscape:export-xdpi="200"
@@ -3209,17 +3209,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000001"
+     inkscape:zoom="1.4142136"
      inkscape:cx="51.424436"
-     inkscape:cy="265.84655"
+     inkscape:cy="294.13082"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
-     inkscape:window-width="1918"
-     inkscape:window-height="1059"
-     inkscape:window-x="1920"
-     inkscape:window-y="19"
+     inkscape:window-width="2560"
+     inkscape:window-height="1386"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
@@ -3516,7 +3516,7 @@
        sodipodi:cy="87.321426"
        sodipodi:rx="15.535714"
        sodipodi:ry="15.535714"
-       d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
+       d="m 33.928571,87.321426 c 0,8.580138 -6.955576,15.535714 -15.535714,15.535714 -8.5801384,0 -15.5357146,-6.955576 -15.5357146,-15.535714 0,-8.580138 6.9555762,-15.535714 15.5357146,-15.535714 8.580138,0 15.535714,6.955576 15.535714,15.535714 z"
        transform="matrix(0.69086948,0,0,0.69086949,122.29294,727.65704)" />
     <path
        sodipodi:type="arc"
@@ -3526,7 +3526,7 @@
        sodipodi:cy="-94.441971"
        sodipodi:rx="30.361444"
        sodipodi:ry="29.638554"
-       d="m -214.6988,-94.441971 a 30.361444,29.638554 0 1 1 -60.72289,0 30.361444,29.638554 0 1 1 60.72289,0 z"
+       d="m -214.6988,-94.441971 c 0,16.368921 -13.59328,29.638554 -30.36144,29.638554 -16.76816,0 -30.36145,-13.269633 -30.36145,-29.638554 0,-16.368919 13.59329,-29.638549 30.36145,-29.638549 16.76816,0 30.36144,13.26963 30.36144,29.638549 z"
        transform="matrix(0.5236804,0,0,0.5364527,263.33325,838.64844)" />
     <text
        xml:space="preserve"
@@ -6201,6 +6201,22 @@
          x="135.08484"
          id="tspan11249"
          sodipodi:role="line">SWITCH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
+       x="-269.40768"
+       y="158.09563"
+       id="text4354"
+       sodipodi:linespacing="125%"
+       transform="translate(66.992039,351.97348)"><tspan
+         sodipodi:role="line"
+         id="tspan4356"
+         x="-269.40768"
+         y="158.09563">PCB bracket is mounted on the left side of the faceplate if you're looking at it from the front</tspan><tspan
+         sodipodi:role="line"
+         x="-269.40768"
+         y="173.09563"
+         id="tspan4358">this means that you must have a jack or pot at the top and bottom of the left side [not led or switch]</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
