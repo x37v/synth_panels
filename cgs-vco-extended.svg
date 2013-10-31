@@ -3159,9 +3159,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000002"
-     inkscape:cx="-126.59212"
-     inkscape:cy="224.70117"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="92.971759"
+     inkscape:cy="579.70115"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4688,9 +4688,9 @@
       </g>
     </g>
     <rect
-       y="609.89081"
+       y="608.89081"
        x="200.71655"
-       height="9.9904852"
+       height="10.990485"
        width="49.143921"
        id="rect7869"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
@@ -4705,7 +4705,7 @@
          y="619.23474"
          x="225"
          id="tspan4355"
-         sodipodi:role="line">VC PW</tspan></text>
+         sodipodi:role="line">VC WIDTH</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text11247"
@@ -8573,9 +8573,9 @@
       </g>
     </g>
     <rect
-       y="812.64081"
+       y="811.51581"
        x="111.71655"
-       height="9.4904852"
+       height="10.615485"
        width="49.143921"
        id="rect8343"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
@@ -9981,9 +9981,9 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect6670"
        width="49.143921"
-       height="9.4904852"
+       height="11.615485"
        x="110.96655"
-       y="677.89081" />
+       y="675.76581" />
     <text
        sodipodi:linespacing="125%"
        id="text6666"
