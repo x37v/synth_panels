@@ -3159,12 +3159,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000004"
+     inkscape:zoom="4.0000002"
      inkscape:cx="92.971759"
-     inkscape:cy="579.70115"
+     inkscape:cy="519.70115"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="in"
      inkscape:window-width="2560"
      inkscape:window-height="1386"
@@ -3179,7 +3179,7 @@
      fit-margin-left="0.25"
      showborder="true"
      borderlayer="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
@@ -3399,25 +3399,51 @@
            sodipodi:role="line"
            id="tspan2998"
            x="135"
-           y="484.23471">VAR</tspan></text>
-    </g>
-    <g
-       id="g5137">
+           y="484.23471">SAW</tspan></text>
+      <path
+         transform="matrix(1.6771136,0,0,1.6771136,91.481761,470.78758)"
+         d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
+         sodipodi:ry="17.740805"
+         sodipodi:rx="17.740805"
+         sodipodi:cy="28.14192"
+         sodipodi:cx="25.948294"
+         id="path5209"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         sodipodi:type="arc" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect5211"
+         width="59.400002"
+         height="10.900359"
+         x="104.79204"
+         y="541.22064" />
       <path
          sodipodi:type="arc"
-         style="fill:none;stroke:#ff0000;stroke-width:3.34832788;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         id="path8353"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.34832788;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5213"
          sodipodi:cx="25.948294"
          sodipodi:cy="28.14192"
          sodipodi:rx="17.740805"
          sodipodi:ry="17.740805"
-         d="m 43.689098,28.14192 c 0,9.797976 -7.942828,17.740805 -17.740804,17.740805 -9.797976,0 -17.740805,-7.942829 -17.740805,-17.740805 0,-9.797976 7.942829,-17.740805 17.740805,-17.740805 9.797976,0 17.740804,7.942829 17.740804,17.740805 z"
+         d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
          transform="matrix(1.0037713,0,0,1.0037713,108.95385,489.7367)" />
       <path
          inkscape:connector-curvature="0"
-         id="path8355"
+         id="path5215"
          d="m 126.25,507.31289 c -3.08879,2.5326 -5.0625,6.3817 -5.0625,10.6875 0,4.2902 1.96175,8.1233 5.03125,10.6563 l 17.5625,0 c 3.0695,-2.533 5.03125,-6.3661 5.03125,-10.6563 0,-4.3058 -1.97371,-8.1549 -5.0625,-10.6875 l -17.5,0 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5217"
+         y="551.73474"
+         x="135"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Klavika;-inkscape-font-specification:Klavika Light"
+         xml:space="preserve"><tspan
+           y="551.73474"
+           x="135"
+           id="tspan5219"
+           sodipodi:role="line"
+           style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">SINEISH</tspan></text>
     </g>
     <path
        sodipodi:type="arc"
@@ -4736,7 +4762,7 @@
          id="tspan4358">this means that you must have a jack or pot at the top and bottom of the left side [not led or switch]</tspan></text>
     <g
        id="g4356"
-       transform="translate(90.227308,-2.1914519)">
+       transform="translate(90,3.9079297e-5)">
       <path
          transform="matrix(1.6771136,0,0,1.6771136,91.481764,403.28755)"
          d="m 43.689098,28.14192 c 0,9.797976 -7.942828,17.740805 -17.740804,17.740805 -9.797976,0 -17.740805,-7.942829 -17.740805,-17.740805 0,-9.797976 7.942829,-17.740805 17.740805,-17.740805 9.797976,0 17.740804,7.942829 17.740804,17.740805 z"
@@ -10008,18 +10034,6 @@
          x="225"
          y="956.73474"
          style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">V/OCT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       x="135"
-       y="551.73474"
-       id="text8547"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8549"
-         x="135"
-         y="551.73474"
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">VC SHAPE</tspan></text>
     <g
        transform="translate(3.460791e-6,67.499991)"
        id="g8551">
