@@ -3211,7 +3211,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="132.63406"
-     inkscape:cy="444.21204"
+     inkscape:cy="129.92633"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3277,11 +3277,11 @@
        originx="-0.74435599in" />
     <sodipodi:guide
        orientation="0,1"
-       position="68.007961,43.261252"
+       position="68.007961,36.99"
        id="guide75943" />
     <sodipodi:guide
        orientation="0,1"
-       position="68.007961,637.26125"
+       position="68.007961,644.58"
        id="guide12158" />
     <sodipodi:guide
        orientation="0,1"
@@ -3348,11 +3348,11 @@
        sodipodi:cy="267.5"
        sodipodi:rx="6.7857141"
        sodipodi:ry="6.7857141"
-       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
-       transform="matrix(0.92810784,0,0,0.92811443,513.43942,741.08914)" />
+       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       transform="matrix(0.92810784,0,0,0.92811443,528.45142,747.36039)" />
     <path
-       transform="matrix(0.92810784,0,0,0.92811443,543.43642,147.08914)"
-       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
+       transform="matrix(0.92810784,0,0,0.92811443,528.45142,139.77039)"
+       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="267.5"
@@ -3363,13 +3363,13 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="135.84001"
+       x="135.29109"
        y="409.34674"
        id="text9174"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9176"
-         x="135.84001"
+         x="135.29109"
          y="409.34674"
          style="font-size:20px;text-align:center;text-anchor:middle">TEMPLATE</tspan></text>
     <text
