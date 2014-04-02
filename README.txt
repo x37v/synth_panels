@@ -23,3 +23,7 @@ rail holes: 0.125 diameter
 inkscape: select by color
 	ctl-f [find]
 	by style: stroke:#ff0000
+
+
+	panel mounting hole guides at: 7.162 and 0.411
+	5/32 inches from the ends
