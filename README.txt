@@ -27,3 +27,5 @@ inkscape: select by color
 
 	panel mounting hole guides at: 7.162 and 0.411
 	5/32 inches from the ends
+
+	mounting holes are 3.0 / 32 but rounded to 0.095 to allow some slop
