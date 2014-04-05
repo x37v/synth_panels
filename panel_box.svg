@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="841.10457"
-     inkscape:cy="-622.43957"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="952.78121"
+     inkscape:cy="989.79875"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
+     inkscape:bbox-nodes="false"
      inkscape:object-nodes="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:window-width="1918"
@@ -42,8 +42,8 @@
      inkscape:window-x="1920"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
-     inkscape:bbox-paths="true"
-     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
@@ -67,10 +67,6 @@
        position="71.209984,254.45747"
        id="guide3001" />
     <sodipodi:guide
-       orientation="1,0"
-       position="1350,1016.6071"
-       id="guide3003" />
-    <sodipodi:guide
        orientation="-0.5,0.8660254"
        position="247.5,42.201996"
        id="guide3005" />
@@ -86,6 +82,82 @@
        orientation="0,1"
        position="1350,1016.6071"
        id="guide3887" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="22.5,0"
+       id="guide3038" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="472.5,0"
+       id="guide3058" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1417.5,0"
+       id="guide3060" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="967.43842,-1349.9998"
+       id="guide3062" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="967.50012,-1557.0621"
+       id="guide3064" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="898.02561,-3259.0499"
+       id="guide3068" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="967.63708,-3112.7374"
+       id="guide3070" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1912.7621,-3112.7374"
+       id="guide3072" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,-2790"
+       id="guide3074" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,-1102.5"
+       id="guide3078" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,-607.5"
+       id="guide3080" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,-2481.75"
+       id="guide3082" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,-1865.25"
+       id="guide3084" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="995.94,0"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="379.44,0"
+       id="guide3088" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,263.25"
+       id="guide3090" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,758.25"
+       id="guide3092" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1349.8737,15.61655"
+       id="guide3094" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,162"
+       id="guide3096" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -120,9 +192,10 @@
      transform="translate(0,27.64025)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.16347019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 1349.8737,10.149427 71.28,748.33693 l 0,288.40627 1278.5937,0 0,-1026.593773 z"
+       d="M 1349.8737,10.149427 71.28,748.33975 l 0,288.40345 1278.5937,0 z"
        id="rect3864"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <g
        transform="translate(155.71427,319.2266)"
        id="g6954">
@@ -196,11 +269,11 @@
        id="rect7809"
        width="22.421165"
        height="134.89"
-       x="71.260765"
-       y="797.96478" />
+       x="71.272484"
+       y="822.91473" />
     <rect
-       y="141.09218"
-       x="1327.5811"
+       y="204.20827"
+       x="1327.3472"
        height="179.80298"
        width="22.462954"
        id="rect7811"
@@ -209,12 +282,12 @@
        style="fill:none;stroke:#000000;stroke-width:0.12710477;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect7813"
        width="22.462954"
-       height="179.80298"
-       x="1327.5811"
-       y="683.94934" />
+       height="179.80299"
+       x="1327.3472"
+       y="699.20825" />
     <rect
-       y="279.56281"
-       x="-1036.6895"
+       y="289.53854"
+       x="-1036.5819"
        height="179.80292"
        width="44.962872"
        id="rect7815"
@@ -226,8 +299,8 @@
        id="rect7817"
        width="44.962872"
        height="179.80292"
-       x="-1036.6895"
-       y="928.13422" />
+       x="-1036.5819"
+       y="906.03851" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3006"
@@ -259,36 +332,36 @@
        id="rect3802"
        width="1889.8768"
        height="990.00104"
-       x="-0.00093584915"
-       y="1492.7858" />
+       x="22.5"
+       y="1412.296" />
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
        x="969.74646"
-       y="1884.7255"
+       y="1804.2357"
        id="text3806"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3808"
          x="969.74646"
-         y="1884.7255">BACK</tspan></text>
+         y="1804.2357">BACK</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.08974109;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3810"
        width="1890.0002"
        height="1232.8755"
-       x="0.0625"
-       y="2648.0562" />
+       x="22.5"
+       y="2609.4844" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3812"
        width="22.5"
        height="180"
-       x="-22.5625"
-       y="2878.7156" />
+       x="-0.0625"
+       y="2827.6099" />
     <rect
-       y="3399.9543"
-       x="-22.5"
+       y="3444.1099"
+       x="-0.0625"
        height="180"
        width="22.5"
        id="rect3814"
@@ -298,11 +371,11 @@
        id="rect3816"
        width="22.5"
        height="180"
-       x="1890.1877"
-       y="2840.3298" />
+       x="1912.8246"
+       y="2827.6099" />
     <rect
-       y="3432.2793"
-       x="1890.1877"
+       y="3444.1099"
+       x="1912.8246"
        height="180"
        width="22.5"
        id="rect3818"
@@ -319,8 +392,8 @@
          x="975.80737"
          y="3335.3044">BOTTOM</tspan></text>
     <rect
-       y="2167.5681"
-       x="-22.5"
+       y="2064.8599"
+       x="-0.0625"
        height="180"
        width="22.5"
        id="rect3824"
@@ -330,11 +403,11 @@
        id="rect3826"
        width="22.5"
        height="180"
-       x="-22.5"
-       y="1679.5085" />
+       x="-0.0625"
+       y="1569.8597" />
     <rect
-       y="1745.8987"
-       x="1890.0009"
+       y="1569.8597"
+       x="1912.8246"
        height="180"
        width="22.5"
        id="rect3828"
@@ -344,26 +417,25 @@
        id="rect3830"
        width="22.5"
        height="180"
-       x="1890.0009"
-       y="2117.0603" />
+       x="1912.8246"
+       y="2064.8599" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3832"
        width="1890"
        height="292.5"
-       x="0"
-       y="4053.8892"
-       transform="translate(0,-27.64025)" />
+       x="22.6996"
+       y="4018.8472" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.07791413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3834"
        width="22.512085"
        height="134.83009"
-       x="-22.512085"
-       y="4091.6213" />
+       x="0.0625"
+       y="4097.6821" />
     <rect
        y="4097.6821"
-       x="1890.125"
+       x="1912.8246"
        height="134.83009"
        width="22.512085"
        id="rect3836"
@@ -371,15 +443,14 @@
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="804.08142"
-       y="4243.7979"
+       x="401.20911"
+       y="4173.8545"
        id="text3838"
-       sodipodi:linespacing="125%"
-       transform="translate(0,-27.64025)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3840"
-         x="804.08142"
-         y="4243.7979">FRONT</tspan></text>
+         x="401.20911"
+         y="4173.8545">FRONT</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
@@ -411,5 +482,65 @@
          id="tspan3858"
          x="2057.1428"
          y="1116.6455">BOTTOM should sit 1/4 off ground, allowing mounting to bottom from inside without messing up flatness</tspan></text>
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       style="fill:none;stroke:#000000;stroke-width:0.12715703;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3042"
+       width="44.962872"
+       height="179.80292"
+       x="-4311.3462"
+       y="382.59854" />
+    <rect
+       y="1327.5985"
+       x="-4311.3462"
+       height="179.80292"
+       width="44.962872"
+       id="rect3044"
+       style="fill:none;stroke:#000000;stroke-width:0.12715703;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.08972828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3046"
+       width="179.6311"
+       height="22.410273"
+       x="382.68445"
+       y="3842.4224" />
+    <rect
+       y="3842.4224"
+       x="1327.6844"
+       height="22.410273"
+       width="179.6311"
+       id="rect3048"
+       style="fill:none;stroke:#000000;stroke-width:0.08972828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.08972828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3050"
+       width="179.6311"
+       height="22.410273"
+       x="1327.6844"
+       y="2586.949" />
+    <rect
+       y="2586.949"
+       x="382.68445"
+       height="22.410273"
+       width="179.6311"
+       id="rect3052"
+       style="fill:none;stroke:#000000;stroke-width:0.08972828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="382.59854"
+       x="-2402.2961"
+       height="179.80292"
+       width="44.962872"
+       id="rect3054"
+       style="fill:none;stroke:#000000;stroke-width:0.12715703;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       style="fill:none;stroke:#000000;stroke-width:0.12715703;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3056"
+       width="44.962872"
+       height="179.80292"
+       x="-2402.2961"
+       y="1327.5985" />
   </g>
 </svg>
