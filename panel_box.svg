@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="4054.7809"
+     inkscape:cx="2493.7488"
      inkscape:cy="1086.1129"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -174,6 +174,10 @@
        orientation="0,1"
        position="5171.3439,330.78289"
        id="guide3166" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="4687.4688,1841.5173"
+       id="guide3827" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -183,7 +187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -325,7 +329,7 @@
        inkscape:connector-curvature="0" />
     <path
        transform="matrix(1.1329989,0,0,1.1329989,-70.774477,1274.3501)"
-       d="m 43.689098,28.14192 a 17.740805,17.740805 0 1 1 -35.481609,0 17.740805,17.740805 0 1 1 35.481609,0 z"
+       d="m 43.689098,28.14192 c 0,9.797976 -7.942828,17.740805 -17.740804,17.740805 -9.797976,0 -17.740805,-7.942829 -17.740805,-17.740805 0,-9.797976 7.942829,-17.740805 17.740805,-17.740805 9.797976,0 17.740804,7.942829 17.740804,17.740805 z"
        sodipodi:ry="17.740805"
        sodipodi:rx="17.740805"
        sodipodi:cy="28.14192"
@@ -471,22 +475,18 @@
          d="m -941.89231,1321.2633 0,-30.0568 -88.96559,0 0,30.0568 z"
          style="fill:none;stroke:#000000;stroke-width:1.03442395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.13769588, 4.13769588;stroke-dashoffset:0" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
-       x="2929.479"
-       y="907.37158"
-       id="text25354"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan25356"
-         x="2929.479"
-         y="907.37158">POWER OUT HERE</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -256.32726,-481.65581 90,45 -90,45 90,45.00001 -90,44.99999 90,45.00001 -90,45 90,45 -90,45 90,45.000005 -90,44.99999 90,45 -90,45 90,44.999995 -90,45 90,45 -90,45 90,45 -90,45 90,44.99999 -90,45 90,45 -90,45.00003 90,45 -90,45 90,45 -89.75,44.75 90.25,44.75 -90,45 90,45 -90,45"
        id="path3107"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3057"
+       width="227.61867"
+       height="92.596893"
+       x="2642.2844"
+       y="742.81134" />
   </g>
 </svg>
