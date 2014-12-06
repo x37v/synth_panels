@@ -3878,12 +3878,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="132.63406"
-     inkscape:cy="387.06918"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-134.01566"
+     inkscape:cy="450.33564"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="in"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
@@ -3898,7 +3898,7 @@
      fit-margin-left="0.25"
      showborder="true"
      borderlayer="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
@@ -3946,11 +3946,11 @@
        originx="-0.74435599in" />
     <sodipodi:guide
        orientation="0,1"
-       position="68.007961,43.261252"
+       position="68.007961,36.99"
        id="guide75943" />
     <sodipodi:guide
        orientation="0,1"
-       position="68.007961,637.26125"
+       position="68.007961,644.58"
        id="guide12158" />
     <sodipodi:guide
        orientation="0,1"
@@ -3993,7 +3993,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4017,11 +4017,11 @@
        sodipodi:cy="267.5"
        sodipodi:rx="6.7857141"
        sodipodi:ry="6.7857141"
-       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
-       transform="matrix(0.92810784,0,0,0.92811443,513.43942,741.08914)" />
+       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       transform="matrix(0.92810784,0,0,0.92811443,513.43942,747.36041)" />
     <path
-       transform="matrix(0.92810784,0,0,0.92811443,543.43642,147.08914)"
-       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
+       transform="matrix(0.92810784,0,0,0.92811443,528.45142,139.77041)"
+       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="267.5"
@@ -18636,7 +18636,7 @@
          id="tspan23133"
          x="179.76849"
          y="407.71674"
-         style="font-size:20px">RESONANT EQ</tspan></text>
+         style="font-size:20px">RESEQ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
@@ -18652,6 +18652,26 @@
          x="179.92798"
          y="989.35968"
          style="font-size:12px">S TCHEREPNIN</tspan></text>
+    <path
+       transform="matrix(0.92810784,0,0,0.92811443,618.45142,747.36041)"
+       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       sodipodi:ry="6.7857141"
+       sodipodi:rx="6.7857141"
+       sodipodi:cy="267.5"
+       sodipodi:cx="-423.92856"
+       id="path11865"
+       style="fill:none;stroke:#000000;stroke-width:0.07308231;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.07308231;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path11867"
+       sodipodi:cx="-423.92856"
+       sodipodi:cy="267.5"
+       sodipodi:rx="6.7857141"
+       sodipodi:ry="6.7857141"
+       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       transform="matrix(0.92810784,0,0,0.92811443,618.45142,139.77041)" />
   </g>
   <g
      inkscape:groupmode="layer"
