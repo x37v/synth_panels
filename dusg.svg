@@ -3209,12 +3209,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="184.33181"
-     inkscape:cy="356.28536"
+     inkscape:zoom="2.8"
+     inkscape:cx="201.01864"
+     inkscape:cy="533.3646"
      inkscape:document-units="in"
      inkscape:current-layer="svg2"
-     showgrid="false"
+     showgrid="true"
      units="in"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
@@ -3229,12 +3229,12 @@
      fit-margin-left="0.25"
      showborder="true"
      borderlayer="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
      inkscape:bbox-nodes="false"
-     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-center="false"
      inkscape:object-paths="false"
@@ -3319,6 +3319,22 @@
        orientation="0,1"
        position="59.914697,342.93408"
        id="guide11028" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-66.992039,204.13625"
+       id="guide5198" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-66.992039,298.63625"
+       id="guide5208" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-66.992039,393.13625"
+       id="guide5210" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-66.992039,487.63625"
+       id="guide5212" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -3338,7 +3354,7 @@
      id="layer1"
      transform="translate(-66.992039,-351.97348)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.09000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2989"
        width="269.8461"
        height="635.50647"
@@ -3352,11 +3368,11 @@
        sodipodi:cy="267.5"
        sodipodi:rx="6.7857141"
        sodipodi:ry="6.7857141"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        transform="matrix(0.62380495,0,0,0.62380938,399.44873,828.76199)" />
     <path
        transform="matrix(0.62380495,0,0,0.62380938,399.44873,221.17199)"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="267.5"
@@ -3396,11 +3412,11 @@
        sodipodi:cy="267.5"
        sodipodi:rx="6.7857141"
        sodipodi:ry="6.7857141"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        transform="matrix(0.62380495,0,0,0.62380938,579.44873,221.17199)" />
     <path
        transform="matrix(0.62380495,0,0,0.62380938,579.44873,828.76199)"
-       d="m -417.14284,267.5 a 6.7857141,6.7857141 0 1 1 -13.57143,0 6.7857141,6.7857141 0 1 1 13.57143,0 z"
+       d="m -417.14284,267.5 c 0,3.74765 -3.03807,6.78571 -6.78572,6.78571 -3.74764,0 -6.78571,-3.03806 -6.78571,-6.78571 0,-3.74765 3.03807,-6.78571 6.78571,-6.78571 3.74765,0 6.78572,3.03806 6.78572,6.78571 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="267.5"
@@ -3454,7 +3470,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
   </g>
   <g
-     transform="translate(41.672451,158.53637)"
+     transform="translate(41.672457,151.48002)"
      style="display:inline"
      id="g4047">
     <g
@@ -4825,7 +4841,7 @@
     </g>
   </g>
   <g
-     transform="translate(41.672451,259.78637)"
+     transform="translate(41.672457,245.89677)"
      style="display:inline"
      id="g5221">
     <path
@@ -7121,24 +7137,24 @@
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      x="124.16027"
-     y="233.39127"
+     y="237.50726"
      id="text36650"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan36652"
        x="124.16027"
-       y="233.39127">RISE</tspan></text>
+       y="237.50726">RISE</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      x="190.54314"
-     y="233.51128"
+     y="237.50726"
      id="text36654"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan36656"
        x="190.54314"
-       y="233.51128">FALL</tspan></text>
+       y="237.50726">FALL</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
@@ -7165,24 +7181,24 @@
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      x="68.007957"
-     y="334.76126"
+     y="320.87167"
      id="text36666"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan36668"
        x="68.007957"
-       y="334.76126">FALL</tspan></text>
+       y="320.87167">FALL</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      x="68.007957"
-     y="233.51128"
+     y="226.45491"
      id="text36670"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan36672"
        x="68.007957"
-       y="233.51128">VC AMT</tspan></text>
+       y="226.45491">VC AMT</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
@@ -7218,7 +7234,7 @@
        y="267.26126">OUT</tspan></text>
   <path
      style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.6, 3.6;stroke-dashoffset:0"
-     d="m 98.303572,199.84395 44.553568,0.26786"
+     d="m 97.983393,192.87734 44.553567,0.26786"
      id="path36686"
      inkscape:connector-curvature="0" />
   <path
@@ -7250,11 +7266,11 @@
      sodipodi:rx="25.75889"
      sodipodi:ry="25.506351"
      d="m 32.324882,-31.871393 a 25.75889,25.506351 0 1 1 -51.517781,0 25.75889,25.506351 0 1 1 51.517781,0 z"
-     transform="matrix(0.62757952,0,0,0.63375042,63.825448,219.99548)"
+     transform="matrix(0.62757952,0,0,0.63375042,63.825454,212.93913)"
      inkscape:label="pot_knob" />
   <path
      inkscape:label="pot_knob"
-     transform="matrix(0.62757952,0,0,0.63375042,63.825451,321.24548)"
+     transform="matrix(0.62757952,0,0,0.63375042,63.825457,307.35588)"
      d="m 32.324882,-31.871393 a 25.75889,25.506351 0 1 1 -51.517781,0 25.75889,25.506351 0 1 1 51.517781,0 z"
      sodipodi:ry="25.506351"
      sodipodi:rx="25.75889"
@@ -7377,7 +7393,7 @@
   <g
      id="g5323"
      style="display:inline"
-     transform="translate(41.672454,428.53638)">
+     transform="translate(41.672457,435.10237)">
     <g
        id="g5325">
       <path
@@ -9900,7 +9916,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(41.672454,327.28638)"
+     transform="translate(41.672457,340.41836)"
      style="display:inline"
      id="g6173">
     <path
@@ -11041,22 +11057,22 @@
   <text
      sodipodi:linespacing="125%"
      id="text6559"
-     y="503.39127"
+     y="507.50726"
      x="124.16027"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      xml:space="preserve"><tspan
-       y="503.39127"
+       y="507.50726"
        x="124.16027"
        id="tspan6561"
        sodipodi:role="line">RISE</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text6563"
-     y="503.51126"
+     y="507.50726"
      x="190.54314"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      xml:space="preserve"><tspan
-       y="503.51126"
+       y="507.50726"
        x="190.54314"
        id="tspan6565"
        sodipodi:role="line">FALL</tspan></text>
@@ -11074,11 +11090,11 @@
   <text
      sodipodi:linespacing="125%"
      id="text6571"
-     y="402.26126"
+     y="415.39325"
      x="68.007957"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      xml:space="preserve"><tspan
-       y="402.26126"
+       y="415.39325"
        x="68.007957"
        id="tspan6573"
        sodipodi:role="line">RISE</tspan></text>
@@ -11096,11 +11112,11 @@
   <text
      sodipodi:linespacing="125%"
      id="text6579"
-     y="503.51126"
+     y="510.07724"
      x="68.007957"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Medium"
      xml:space="preserve"><tspan
-       y="503.51126"
+       y="510.07724"
        x="68.007957"
        id="tspan6581"
        sodipodi:role="line">VC AMT</tspan></text>
@@ -11140,7 +11156,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path6595"
-     d="m 98.303575,469.84396 44.553565,0.26786"
+     d="m 97.983398,476.37734 44.553562,0.26786"
      style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.6, 3.6;stroke-dashoffset:0" />
   <path
      sodipodi:type="arc"
@@ -11164,7 +11180,7 @@
      sodipodi:type="arc" />
   <path
      inkscape:label="pot_knob"
-     transform="matrix(0.62757952,0,0,0.63375042,63.825451,489.99549)"
+     transform="matrix(0.62757952,0,0,0.63375042,63.825454,496.56148)"
      d="m 32.324882,-31.871393 a 25.75889,25.506351 0 1 1 -51.517781,0 25.75889,25.506351 0 1 1 51.517781,0 z"
      sodipodi:ry="25.506351"
      sodipodi:rx="25.75889"
@@ -11239,7 +11255,7 @@
      sodipodi:type="arc" />
   <path
      inkscape:label="pot_knob"
-     transform="matrix(0.62757952,0,0,0.63375042,63.825451,388.74549)"
+     transform="matrix(0.62757952,0,0,0.63375042,63.825454,401.87747)"
      d="m 32.324882,-31.871393 a 25.75889,25.506351 0 1 1 -51.517781,0 25.75889,25.506351 0 1 1 51.517781,0 z"
      sodipodi:ry="25.506351"
      sodipodi:rx="25.75889"
