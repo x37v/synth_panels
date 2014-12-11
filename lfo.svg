@@ -3161,14 +3161,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="21.090927"
-     inkscape:cy="284.96173"
+     inkscape:cy="457.6784"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
-     inkscape:window-width="1918"
-     inkscape:window-height="1059"
-     inkscape:window-x="1920"
+     inkscape:window-width="1364"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -3399,7 +3399,7 @@
          sodipodi:role="line"
          style="font-weight:bold;-inkscape-font-specification:Klavika Bold">PULSE</tspan></text>
     <g
-       transform="translate(108.58775,409.23669)"
+       transform="translate(108.66449,476.75986)"
        style="display:inline"
        id="g5221">
       <rect
@@ -4587,7 +4587,7 @@
          sodipodi:role="line"
          id="tspan4331"
          x="225"
-         y="484.23471">TRI/SAW</tspan></text>
+         y="484.23471">VARIABLE</tspan></text>
     <g
        transform="translate(225,67.499977)"
        id="g4333">
@@ -4628,7 +4628,7 @@
          x="225"
          id="tspan4343"
          sodipodi:role="line"
-         style="font-weight:bold;-inkscape-font-specification:Klavika Bold">VARIABLE</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:Klavika Bold">TRI/SAW</tspan></text>
     <g
        transform="translate(225,472.49998)"
        id="g4345">
@@ -4669,7 +4669,7 @@
          sodipodi:role="line"
          id="tspan4355"
          x="225"
-         y="956.73474">TRI/SAW</tspan></text>
+         y="956.73474">VARIABLE</tspan></text>
     <g
        transform="translate(225,337.49997)"
        id="g4357">
@@ -4751,7 +4751,7 @@
          sodipodi:role="line"
          id="tspan4379"
          x="225"
-         y="889.23474">VARIABLE</tspan></text>
+         y="889.23474">TRI/SAW</tspan></text>
     <path
        transform="matrix(0.64592179,0,0,0.6459218,213.11965,664.08196)"
        d="m 33.928571,87.321426 c 0,8.580138 -6.955576,15.535714 -15.535714,15.535714 -8.5801384,0 -15.5357146,-6.955576 -15.5357146,-15.535714 0,-8.580138 6.9555762,-15.535714 15.5357146,-15.535714 8.580138,0 15.535714,6.955576 15.535714,15.535714 z"
@@ -4790,15 +4790,14 @@
        id="path4415"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 112.63201,334.67027 -89.633049,0"
+       style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 180.258,687.65432 -89.633043,0"
        id="path5185"
-       inkscape:connector-curvature="0"
-       transform="translate(66.992039,351.97348)" />
+       inkscape:connector-curvature="0" />
     <g
        id="g5237"
        style="display:inline"
-       transform="translate(108.58775,503.73669)">
+       transform="translate(108.72632,544.22414)">
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.86714965;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
          id="rect5239"
@@ -5915,7 +5914,7 @@
       </g>
     </g>
     <g
-       transform="translate(108.58775,598.23769)"
+       transform="translate(108.72632,611.72416)"
        style="display:inline"
        id="g5613">
       <rect
@@ -7036,7 +7035,7 @@
     <g
        id="g5989"
        style="display:inline"
-       transform="translate(108.58775,692.73669)">
+       transform="translate(108.72632,679.22414)">
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.86714965;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
          id="rect5991"
@@ -8153,7 +8152,7 @@
       </g>
     </g>
     <g
-       transform="translate(108.58775,787.23669)"
+       transform="translate(108.72632,746.72414)"
        style="display:inline"
        id="g6365">
       <rect
@@ -9274,7 +9273,7 @@
     <g
        id="g6741"
        style="display:inline"
-       transform="translate(108.58775,881.73769)">
+       transform="translate(108.66449,814.25985)">
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.86714965;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
          id="rect6743"
@@ -10393,92 +10392,102 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
-       x="135"
-       y="484.23474"
+       x="135.07674"
+       y="551.75787"
        id="text5062"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5064"
-         x="135"
-         y="484.23474">SHAPE</tspan></text>
+         x="135.07674"
+         y="551.75787">VARIABLE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
-       x="135.0276"
-       y="578.71161"
+       x="135.16617"
+       y="619.19904"
        id="text5066"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5068"
-         x="135.0276"
-         y="578.71161">VARIABLE</tspan></text>
+         x="135.16617"
+         y="619.19904">SHAPE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
-       x="134.92326"
-       y="673.21259"
+       x="135.06183"
+       y="686.69897"
        id="text5070"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5072"
-         x="134.92326"
-         y="673.21259">RATE</tspan></text>
+         x="135.06183"
+         y="686.69897">RATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
-       x="134.92326"
-       y="767.71161"
+       x="135.06183"
+       y="754.1991"
        id="text5074"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5076"
-         x="134.92326"
-         y="767.71161">RATE</tspan></text>
+         x="135.06183"
+         y="754.1991">RATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
-       x="135.0276"
-       y="862.21161"
+       x="135.16618"
+       y="821.69904"
        id="text5078"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5080"
-         x="135.0276"
-         y="862.21161">VARIABLE</tspan></text>
+         x="135.16618"
+         y="821.69904">SHAPE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
-       x="135.03665"
-       y="956.61475"
+       x="135.11339"
+       y="889.1369"
        id="text5082"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5084"
-         x="135.03665"
-         y="956.61475">SHAPE</tspan></text>
+         x="135.11339"
+         y="889.1369">VARIABLE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
-       x="179.8891"
-       y="589.48077"
+       x="134.90709"
+       y="454.48074"
        id="text5073"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5075"
-         x="179.8891"
-         y="589.48077">LED</tspan></text>
+         x="134.90709"
+         y="454.48074">LED</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5077"
-       y="791.98077"
-       x="179.8891"
+       y="926.98077"
+       x="134.90709"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"><tspan
-         y="791.98077"
-         x="179.8891"
+         y="926.98077"
+         x="134.90709"
          id="tspan5079"
          sodipodi:role="line">LED</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5077"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Klavika;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center"><flowRegion
+         id="flowRegion5079"><rect
+           id="rect5081"
+           width="3.5355339"
+           height="26.769043"
+           x="322.23865"
+           y="535.69061" /></flowRegion><flowPara
+         id="flowPara5083"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
