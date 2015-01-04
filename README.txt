@@ -29,3 +29,9 @@ inkscape: select by color
 	5/32 inches from the ends
 
 	mounting holes are 3.0 / 32 but rounded to 0.095 to allow some slop
+
+Color [from creature manual]:
+black  - Black—Bi-polar AC-coupled voltages and signal (voltages that may swing between positive and negative, as in an audio signal) 
+blue   - Blue—Unipolar DC-coupled voltages (usually positive-only control voltages) 
+red    - Red—Logic (triggers, gates, and other positive-going pulses) 
+violet - Violet—Synchronization , currently found only on voltage-controlled oscillators so that one master oscillator may “retrigger’ the waveforms of slave oscillators and help eliminate unwanted “beat frequencies.” 
