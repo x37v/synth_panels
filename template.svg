@@ -6217,6 +6217,27 @@
          x="-269.40768"
          y="173.09563"
          id="tspan4358">this means that you must have a jack or pot at the top and bottom of the left side [not led or switch]</tspan></text>
+    <path
+       transform="matrix(0.82245476,0,0,0.82261762,-413.29929,499.75793)"
+       d="m 310.41988,174.99547 a 19.622213,19.622213 0 1 1 -39.24442,0 19.622213,19.622213 0 1 1 39.24442,0 z"
+       sodipodi:ry="19.622213"
+       sodipodi:rx="19.622213"
+       sodipodi:cy="174.99547"
+       sodipodi:cx="290.79767"
+       id="path4566"
+       style="fill:none;stroke:#000000;stroke-width:0.10787211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
+       x="-168.55763"
+       y="684.25073"
+       id="text7329"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7331"
+         x="-168.55763"
+         y="684.25073">1/4&quot; jack hole</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
