@@ -3209,9 +3209,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="182.46831"
-     inkscape:cy="369.11573"
+     inkscape:zoom="5.286596"
+     inkscape:cx="113.4"
+     inkscape:cy="150.37437"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -8287,15 +8287,20 @@
     <text
        sodipodi:linespacing="125%"
        id="text7474"
-       y="754.23474"
-       x="119.988"
+       y="718.01483"
+       x="159.77515"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
        xml:space="preserve"><tspan
          style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         y="754.23474"
-         x="119.988"
+         y="718.01483"
+         x="159.77515"
          id="tspan7476"
-         sodipodi:role="line">VC RATE</tspan></text>
+         sodipodi:role="line">VC</tspan><tspan
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         y="733.01483"
+         x="159.77515"
+         sodipodi:role="line"
+         id="tspan11812">RATE</tspan></text>
     <g
        id="g9503"
        transform="translate(90.000003,-0.17249399)">
@@ -9723,14 +9728,14 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="119.988"
-       y="686.73474"
+       x="149.68648"
+       y="638.65149"
        id="text7913"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7915"
-         x="119.988"
-         y="686.73474"
+         x="149.68648"
+         y="638.65149"
          style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">RST</tspan></text>
     <g
        id="g7917"
@@ -9754,13 +9759,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text7923"
-       y="720.48474"
-       x="149.985"
+       y="681.59387"
+       x="115.33677"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Klavika;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
          style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light"
-         y="720.48474"
-         x="149.985"
+         y="681.59387"
+         x="115.33677"
          id="tspan7925"
          sodipodi:role="line">CNSL</tspan></text>
     <g
@@ -11191,7 +11196,7 @@
          y="889.23474"
          x="254.99203"
          id="tspan8596"
-         sodipodi:role="line">ENV (EXT)</tspan></text>
+         sodipodi:role="line">EXT/ENV</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
@@ -14109,90 +14114,95 @@
          x="-104.89116"
          id="tspan11249-8"
          sodipodi:role="line">SWITCH</tspan></text>
-    <g
-       id="g11327"
-       transform="translate(88.5,71.5)">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:0.12490913;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path11121"
-         sodipodi:cx="18.392857"
-         sodipodi:cy="87.321426"
-         sodipodi:rx="15.535714"
-         sodipodi:ry="15.535714"
-         d="m 33.928571,87.321426 c 0,8.580138 -6.955576,15.535714 -15.535714,15.535714 -8.5801384,0 -15.5357146,-6.955576 -15.5357146,-15.535714 0,-8.580138 6.9555762,-15.535714 15.5357146,-15.535714 8.580138,0 15.535714,6.955576 15.535714,15.535714 z"
-         transform="matrix(0.69086948,0,0,0.69086949,32.292937,727.657)" />
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#ff0000;stroke-width:0.83904648;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path11123"
-         sodipodi:cx="-245.06024"
-         sodipodi:cy="-94.441971"
-         sodipodi:rx="30.361444"
-         sodipodi:ry="29.638554"
-         d="m -214.6988,-94.441971 c 0,16.368921 -13.59328,29.638554 -30.36144,29.638554 -16.76816,0 -30.36145,-13.269633 -30.36145,-29.638554 0,-16.368919 13.59329,-29.638549 30.36145,-29.638549 16.76816,0 30.36144,13.26963 30.36144,29.638549 z"
-         transform="matrix(0.5236804,0,0,0.5364527,173.33325,838.6484)" />
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-         x="45.084839"
-         y="825.73071"
-         id="text11125"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan11127"
-           x="45.084839"
-           y="825.73071"
-           style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">EXT MOD</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text11129"
-         y="758.23071"
-         x="45.084839"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-         xml:space="preserve"><tspan
-           style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           y="758.23071"
-           x="45.084839"
-           id="tspan11131"
-           sodipodi:role="line">EXT ENV</tspan></text>
-    </g>
+    <path
+       transform="matrix(0.69086948,0,0,0.69086949,120.79294,799.157)"
+       d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
+       sodipodi:ry="15.535714"
+       sodipodi:rx="15.535714"
+       sodipodi:cy="87.321426"
+       sodipodi:cx="18.392857"
+       id="path11121"
+       style="fill:none;stroke:#000000;stroke-width:0.12490913;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.5236804,0,0,0.5364527,261.83325,910.1484)"
+       d="m -214.6988,-94.441971 a 30.361444,29.638554 0 1 1 -60.72289,0 30.361444,29.638554 0 1 1 60.72289,0 z"
+       sodipodi:ry="29.638554"
+       sodipodi:rx="30.361444"
+       sodipodi:cy="-94.441971"
+       sodipodi:cx="-245.06024"
+       id="path11123"
+       style="fill:none;stroke:#ff0000;stroke-width:0.83904648;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11125"
+       y="839.34845"
+       x="135.0981"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
+       xml:space="preserve"><tspan
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         y="839.34845"
+         x="135.0981"
+         id="tspan11127"
+         sodipodi:role="line">EXT MOD</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       x="149.985"
-       y="787.98474"
+       x="133.20653"
+       y="890.63947"
+       id="text11129"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11131"
+         x="133.20653"
+         y="890.63947"
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">EXT ENV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
+       x="110.15728"
+       y="763.40729"
        id="text11796"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11798"
-         x="149.985"
-         y="787.98474"
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">VC DPTH</tspan></text>
+         x="110.15728"
+         y="763.40729"
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">VC</tspan><tspan
+         sodipodi:role="line"
+         x="110.15728"
+         y="778.40729"
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="tspan11814">DPTH</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text11800"
-       y="816.08496"
-       x="118.54365"
+       y="808.67615"
+       x="153.33151"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
        xml:space="preserve"><tspan
          style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         y="816.08496"
-         x="118.54365"
+         y="808.67615"
+         x="153.33151"
          id="tspan11802"
-         sodipodi:role="line">VC MOD</tspan></text>
+         sodipodi:role="line">VC</tspan><tspan
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         y="823.67615"
+         x="153.33151"
+         sodipodi:role="line"
+         id="tspan11816">MOD</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-73.539108"
-       y="323.55859"
+       x="-43.316624"
+       y="657.14728"
        id="text11808"
-       sodipodi:linespacing="125%"
-       transform="translate(66.992039,351.97348)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11810"
-         x="-73.539108"
-         y="323.55859">THESE PACKED IN JACKS ARE JUST EYEBALL PLACED</tspan></text>
+         x="-43.316624"
+         y="657.14728">THESE PACKED IN JACKS ARE JUST EYEBALL PLACED</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
