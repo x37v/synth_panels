@@ -3161,7 +3161,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="51.424436"
-     inkscape:cy="388.60186"
+     inkscape:cy="252.6548"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3329,7 +3329,7 @@
          id="tspan9176"
          x="135.29109"
          y="409.34674"
-         style="font-size:20px;font-weight:300;text-align:center;text-anchor:middle;-inkscape-font-specification:Klavika Light">808TOM</tspan></text>
+         style="font-size:20px;font-weight:300;text-align:center;text-anchor:middle;-inkscape-font-specification:Klavika Light">TOM</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Light"
@@ -3420,7 +3420,7 @@
          id="tspan8521"
          x="135"
          y="956.73474"
-         style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">TRIG/GATE</tspan></text>
+         style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">TRIG</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-width:0.12490913;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -3429,8 +3429,8 @@
        sodipodi:cy="87.321426"
        sodipodi:rx="15.535714"
        sodipodi:ry="15.535714"
-       d="m 33.928571,87.321426 c 0,8.580138 -6.955576,15.535714 -15.535714,15.535714 -8.5801384,0 -15.5357146,-6.955576 -15.5357146,-15.535714 0,-8.580138 6.9555762,-15.535714 15.5357146,-15.535714 8.580138,0 15.535714,6.955576 15.535714,15.535714 z"
-       transform="matrix(0.69086948,0,0,0.69086949,122.29294,727.65704)" />
+       d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
+       transform="matrix(0.69086948,0,0,0.69086949,121.96866,693.90702)" />
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#ff0000;stroke-width:0.83904648;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -3439,23 +3439,23 @@
        sodipodi:cy="-94.441971"
        sodipodi:rx="30.361444"
        sodipodi:ry="29.638554"
-       d="m -214.6988,-94.441971 c 0,16.368921 -13.59328,29.638554 -30.36144,29.638554 -16.76816,0 -30.36145,-13.269633 -30.36145,-29.638554 0,-16.368919 13.59329,-29.638549 30.36145,-29.638549 16.76816,0 30.36144,13.26963 30.36144,29.638549 z"
-       transform="matrix(0.5236804,0,0,0.5364527,263.33325,838.64844)" />
+       d="m -214.6988,-94.441971 a 30.361444,29.638554 0 1 1 -60.72289,0 30.361444,29.638554 0 1 1 60.72289,0 z"
+       transform="matrix(0.5236804,0,0,0.5364527,263.00897,804.89842)" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
-       x="135.08484"
-       y="825.73077"
+       x="134.76056"
+       y="791.98077"
        id="text4328"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4330"
-         x="135.08484"
-         y="825.73077"
+         x="134.76056"
+         y="791.98077"
          style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">TOM</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Sans;stroke-opacity:1;stroke-width:0.45000000000000001;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Klavika;-inkscape-font-specification:Sans"
        x="135"
        y="990.48474"
        id="text5130"
@@ -3464,7 +3464,7 @@
          id="tspan5132"
          x="135"
          y="990.48474"
-         style="font-weight:300;-inkscape-font-specification:Klavika Light;stroke:#0000ff;stroke-opacity:1;stroke-width:0.45000000000000001;stroke-miterlimit:4;stroke-dasharray:none;fill:#0000ff">XNOR</tspan></text>
+         style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">TR-808</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
@@ -4687,13 +4687,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text11247"
-       y="758.23077"
-       x="135.08484"
+       y="724.48077"
+       x="134.76056"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;font-family:Klavika;-inkscape-font-specification:Klavika Light"
        xml:space="preserve"><tspan
          style="fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         y="758.23077"
-         x="135.08484"
+         y="724.48077"
+         x="134.76056"
          id="tspan11249"
          sodipodi:role="line">CONGA</tspan></text>
     <text
@@ -4712,27 +4712,6 @@
          x="-269.40768"
          y="173.09563"
          id="tspan4358">this means that you must have a jack or pot at the top and bottom of the left side [not led or switch]</tspan></text>
-    <path
-       transform="matrix(0.82245476,0,0,0.82261762,-413.29929,499.75793)"
-       d="m 310.41988,174.99547 c 0,10.83705 -8.78516,19.62221 -19.62221,19.62221 -10.83705,0 -19.62221,-8.78516 -19.62221,-19.62221 0,-10.83705 8.78516,-19.62222 19.62221,-19.62222 10.83705,0 19.62221,8.78517 19.62221,19.62222 z"
-       sodipodi:ry="19.622213"
-       sodipodi:rx="19.622213"
-       sodipodi:cy="174.99547"
-       sodipodi:cx="290.79767"
-       id="path4566"
-       style="fill:none;stroke:#000000;stroke-width:0.10787211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="arc" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-168.55763"
-       y="684.25073"
-       id="text7329"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7331"
-         x="-168.55763"
-         y="684.25073">1/4&quot; jack hole</tspan></text>
     <g
        id="g4359"
        transform="translate(-2.5858908e-6,405)">
@@ -4793,9 +4772,9 @@
            height="18.384775"
            x="478.71127"
            y="474.87946" /></flowRegion><flowPara
-         id="flowPara4384"></flowPara></flowRoot>    <g
+         id="flowPara4384" /></flowRoot>    <g
        id="g4428"
-       transform="translate(3.460791e-6,-67.672499)">
+       transform="translate(-0.00124635,-135.00001)">
       <path
          transform="matrix(1.0065852,0,0,1.082644,62.328393,397.79469)"
          d="m 102.25,235.71002 c 0,15.36042 -13.431458,27.8125 -30,27.8125 -16.568542,0 -30,-12.45208 -30,-27.8125 0,-15.36042 13.431458,-27.8125 30,-27.8125 16.568542,0 30,12.45208 30,27.8125 z"
@@ -5929,17 +5908,17 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="135"
-       y="619.06226"
+       x="134.99875"
+       y="551.73474"
        id="text4808"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4810"
-         x="135"
-         y="619.06226"
+         x="134.99875"
+         y="551.73474"
          style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">TUNE</tspan></text>
     <g
-       transform="translate(3.460791e-6,-135.1725)"
+       transform="translate(3.460791e-6,-67.672499)"
        id="g5198">
       <g
          id="g5200">

@@ -3108,9 +3108,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
+     inkscape:zoom="1"
      inkscape:cx="51.424436"
-     inkscape:cy="339.3244"
+     inkscape:cy="381.91435"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3278,7 +3278,7 @@
          id="tspan9176"
          x="135.29109"
          y="409.34674"
-         style="font-size:20px;font-weight:300;text-align:center;text-anchor:middle;-inkscape-font-specification:Klavika Light">909SNR</tspan></text>
+         style="font-size:20px;font-weight:300;text-align:center;text-anchor:middle;-inkscape-font-specification:Klavika Light">SNARE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Klavika Light"
@@ -3464,16 +3464,6 @@
          x="-269.40768"
          y="173.09563"
          id="tspan4358">this means that you must have a jack or pot at the top and bottom of the left side [not led or switch]</tspan></text>
-    <path
-       transform="matrix(0.82245476,0,0,0.82261762,-413.29929,499.75793)"
-       d="m 310.41988,174.99547 c 0,10.83705 -8.78516,19.62221 -19.62221,19.62221 -10.83705,0 -19.62221,-8.78516 -19.62221,-19.62221 0,-10.83705 8.78516,-19.62222 19.62221,-19.62222 10.83705,0 19.62221,8.78517 19.62221,19.62222 z"
-       sodipodi:ry="19.622213"
-       sodipodi:rx="19.622213"
-       sodipodi:cy="174.99547"
-       sodipodi:cx="290.79767"
-       id="path4566"
-       style="fill:none;stroke:#000000;stroke-width:0.10787211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="arc" />
     <g
        transform="translate(-2.5858908e-6,405)"
        id="g4359">
@@ -3495,7 +3485,7 @@
     </g>
     <g
        id="g4791"
-       transform="translate(-0.00124635,-67.844991)">
+       transform="translate(3.460791e-6,134.8275)">
       <g
          id="g4793">
         <path
@@ -5690,7 +5680,8 @@
            sodipodi:role="line">TONE</tspan></text>
     </g>
     <g
-       id="g6149">
+       id="g6149"
+       transform="translate(0,-202.50001)">
       <g
          transform="translate(3.460791e-6,134.8275)"
          id="g5565">
@@ -6798,7 +6789,7 @@
          id="tspan6143"
          x="135"
          y="956.73474"
-         style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">GATE/TRIG</tspan></text>
+         style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">TRIG</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6145"
@@ -6871,6 +6862,18 @@
            sodipodi:role="line"
            style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">NOISE</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Klavika;-inkscape-font-specification:Sans"
+       x="135"
+       y="990.48474"
+       id="text5130"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5132"
+         x="135"
+         y="990.48474"
+         style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">TR-909</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
