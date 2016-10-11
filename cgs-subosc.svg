@@ -3166,10 +3166,10 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
-     inkscape:window-width="1364"
-     inkscape:window-height="747"
-     inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-width="2491"
+     inkscape:window-height="1350"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
@@ -3448,43 +3448,6 @@
          x="179.98199"
          y="990.48474"
          style="font-weight:300;fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">CGS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-97.116394"
-       y="473.16675"
-       id="text5242"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5244"
-         x="-97.116394"
-         y="473.16675"
-         style="font-weight:300;stroke:#000000;stroke-width:0.44999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Klavika Light">FONT: Klavika 12pt with 0.005in stroke</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-89.990997"
-       y="402.68674"
-       id="text5246"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5248"
-         x="-89.990997"
-         y="402.68674"
-         style="font-size:20px;font-weight:300;-inkscape-font-specification:Klavika Light">HEADER font 20pt Klavika</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-101.00796"
-       y="425.06274"
-       id="text5250"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5252"
-         x="-101.00796"
-         y="425.06274"><tspan
-           style="font-weight:300;-inkscape-font-specification:Klavika Light"
-           id="tspan5256">rail holes: 0.104in diameter</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5258"
@@ -3495,31 +3458,7 @@
            height="25.5"
            x="130.5"
            y="52.647522" /></flowRegion><flowPara
-         id="flowPara5264" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-101.00796"
-       y="441.621"
-       id="text5266"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5268"
-         x="-101.00796"
-         y="441.621"
-         style="font-weight:300;-inkscape-font-specification:Klavika Light">led holes: 0.242in diameter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-104.75027"
-       y="458.81274"
-       id="text5270"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5272"
-         x="-104.75027"
-         y="458.81274"
-         style="font-weight:300;-inkscape-font-specification:Klavika Light">switch holes: 0.240in diameter</tspan></text>
-    <path
+         id="flowPara5264" /></flowRoot>    <path
        transform="matrix(1.0065852,0,0,1.082644,62.325905,397.96719)"
        d="m 102.25,235.71002 c 0,15.36042 -13.431458,27.8125 -30,27.8125 -16.568542,0 -30,-12.45208 -30,-27.8125 0,-15.36042 13.431458,-27.8125 30,-27.8125 16.568542,0 30,12.45208 30,27.8125 z"
        sodipodi:ry="27.8125"
@@ -4660,22 +4599,6 @@
          x="134.9975"
          id="tspan4355"
          sodipodi:role="line">A</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Klavika;-inkscape-font-specification:Sans"
-       x="-269.40768"
-       y="158.09563"
-       id="text4354"
-       sodipodi:linespacing="125%"
-       transform="translate(66.992039,351.97348)"><tspan
-         sodipodi:role="line"
-         id="tspan4356"
-         x="-269.40768"
-         y="158.09563">PCB bracket is mounted on the left side of the faceplate if you're looking at it from the front</tspan><tspan
-         sodipodi:role="line"
-         x="-269.40768"
-         y="173.09563"
-         id="tspan4358">this means that you must have a jack or pot at the top and bottom of the left side [not led or switch]</tspan></text>
     <g
        id="g4359"
        transform="translate(-9.9999994e-8,67.500062)">
