@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="10.5in"
+   width="14.5in"
    height="3in"
    id="svg2"
    version="1.1"
@@ -3108,9 +3108,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="320.03009"
-     inkscape:cy="149.91896"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="365.01509"
+     inkscape:cy="75.793634"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3134,7 +3134,7 @@
      inkscape:bbox-paths="false"
      inkscape:bbox-nodes="false"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-center="false"
      inkscape:object-paths="false"
      inkscape:snap-nodes="false"
@@ -3223,6 +3223,16 @@
        orientation="1,0"
        position="97.2,644.58"
        id="guide18549" />
+    <sodipodi:guide
+       position="652.93596,188.99999"
+       orientation="1,0"
+       id="guide5589" />
+    <sodipodi:guide
+       position="652.93596,174.375"
+       orientation="0,1"
+       id="guide5591"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -3232,7 +3242,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3242,12 +3252,19 @@
      id="layer1"
      transform="translate(-66.992039,-762.62102)">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.04124673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff00ff;fill-opacity:1;stroke:#ff00ef;stroke-width:2.85216641;stroke-miterlimit:4;stroke-dasharray:2.85216633, 2.85216633;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6525"
+       width="514.64783"
+       height="143.39783"
+       x="462.6041"
+       y="786.54712" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.08999176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2989"
-       width="899.95874"
-       height="224.95876"
-       x="89.975723"
-       y="785.09009" />
+       width="1259.9512"
+       height="224.91"
+       x="89.979492"
+       y="785.16602" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.1324317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path12611"
@@ -3265,14 +3282,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;line-height:125%;font-family:Klavika;-inkscape-font-specification:'Klavika Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="547.28174"
-       y="880.34674"
+       x="719.92798"
+       y="974.34674"
        id="text9174"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9176"
-         x="547.28174"
-         y="880.34674"
+         x="719.92798"
+         y="974.34674"
          style="font-weight:300;font-size:20px;-inkscape-font-specification:'Klavika Light';text-align:center;text-anchor:middle">COMPUTER MOD</tspan></text>
     <text
        xml:space="preserve"
@@ -3288,7 +3305,7 @@
          y="282.85715" /></text>
     <g
        id="g4837"
-       transform="translate(630.22731,369.05425)">
+       transform="translate(990,371.25006)">
       <circle
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="path9682"
@@ -3345,14 +3362,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Klavika;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="539.94598"
-       y="990.48474"
+       x="719.90161"
+       y="994.85291"
        id="text5130"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5132"
-         x="539.94598"
-         y="990.48474"
+         x="719.90161"
+         y="994.85291"
          style="font-weight:300;-inkscape-font-specification:'Klavika Light';fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">XNOR</tspan></text>
     <text
        xml:space="preserve"
@@ -3442,7 +3459,7 @@
          y="173.09563"
          id="tspan4358">this means that you must have a jack or pot at the top and bottom of the left side [not led or switch]</tspan></text>
     <g
-       transform="translate(540.22731,504.05425)"
+       transform="translate(900,506.25006)"
        id="g5510">
       <circle
          r="17.740805"
@@ -3485,7 +3502,7 @@
     </g>
     <g
        id="g5524"
-       transform="translate(810.22731,436.55425)">
+       transform="translate(1170,438.75006)">
       <circle
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="circle5526"
@@ -3526,7 +3543,7 @@
            y="484.23471">4</tspan></text>
     </g>
     <g
-       transform="translate(810.22731,504.05425)"
+       transform="translate(1170,506.25006)"
        id="g5538">
       <circle
          r="17.740805"
@@ -3569,7 +3586,7 @@
     </g>
     <g
        id="g5552"
-       transform="translate(630.22731,436.55425)">
+       transform="translate(990,438.75006)">
       <circle
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="circle5554"
@@ -3610,7 +3627,7 @@
            y="484.23471">4</tspan></text>
     </g>
     <g
-       transform="translate(540.22731,369.05425)"
+       transform="translate(900,371.25006)"
        id="g5566">
       <circle
          r="17.740805"
@@ -3652,7 +3669,7 @@
            style="font-weight:300;-inkscape-font-specification:'Klavika Light';fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">1</tspan></text>
     </g>
     <g
-       transform="translate(720.22731,369.05425)"
+       transform="translate(1080,371.25006)"
        id="g5594">
       <circle
          r="17.740805"
@@ -3695,7 +3712,7 @@
     </g>
     <g
        id="g5608"
-       transform="translate(540.22731,436.55425)">
+       transform="translate(900,438.75006)">
       <circle
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="circle5610"
@@ -3736,7 +3753,7 @@
            y="484.23471">3</tspan></text>
     </g>
     <g
-       transform="translate(630.22731,504.05425)"
+       transform="translate(990,506.25006)"
        id="g5622">
       <circle
          r="17.740805"
@@ -3779,7 +3796,7 @@
     </g>
     <g
        id="g5636"
-       transform="translate(720.22731,436.55425)">
+       transform="translate(1080,438.75006)">
       <circle
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="circle5638"
@@ -3820,7 +3837,7 @@
            y="484.23471">3</tspan></text>
     </g>
     <g
-       transform="translate(720.22731,504.05425)"
+       transform="translate(1080,506.25006)"
        id="g5650">
       <circle
          r="17.740805"
@@ -3863,7 +3880,7 @@
     </g>
     <g
        id="g5664"
-       transform="translate(810.22731,369.05425)">
+       transform="translate(1170,371.25006)">
       <circle
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="circle5666"
@@ -3920,7 +3937,7 @@
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-2.5858908e-6,438.75002)"
+       transform="translate(180,438.75002)"
        id="g5737">
       <circle
          r="17.740805"
@@ -3953,7 +3970,7 @@
     </g>
     <g
        id="g5749"
-       transform="translate(367.949,168.55256)">
+       transform="translate(464.94,303.55256)">
       <g
          id="g5751">
         <ellipse
@@ -5041,7 +5058,7 @@
            sodipodi:role="line">ENC</tspan></text>
     </g>
     <g
-       transform="translate(457.66339,168.55256)"
+       transform="translate(704.916,303.55256)"
        id="g6135">
       <g
          id="g6137">
@@ -6129,13 +6146,6 @@
            y="686.73474"
            style="font-weight:300;-inkscape-font-specification:'Klavika Light';fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ENC</tspan></text>
     </g>
-    <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:#ff00ef;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6525"
-       width="126"
-       height="72"
-       x="484.44601"
-       y="886.98474" />
     <g
        id="g6647"
        transform="translate(89.999997,303.75002)">
@@ -6154,7 +6164,7 @@
     </g>
     <g
        id="g6653"
-       transform="translate(89.999997,438.75002)">
+       transform="translate(270,438.75002)">
       <circle
          transform="matrix(1.0037713,0,0,1.0037713,108.95385,489.7367)"
          id="circle6655"
@@ -6251,7 +6261,7 @@
     <g
        id="g6709">
       <flowRoot
-         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot6701"
          xml:space="preserve"><flowRegion
            id="flowRegion6703"><rect
@@ -6360,61 +6370,61 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Klavika;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="135"
+       x="315"
        y="990.48474"
        id="text6751"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6753"
-         x="135"
+         x="315"
          y="990.48474"
          style="font-weight:300;-inkscape-font-specification:'Klavika Light';fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">5</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6755"
        y="990.48474"
-       x="225"
+       x="405"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Klavika;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-weight:300;-inkscape-font-specification:'Klavika Light';fill:#0000ff;stroke:#0000ff;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="990.48474"
-         x="225"
+         x="405"
          id="tspan6757"
          sodipodi:role="line">6</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="503.98401"
-       y="932.21191"
+       x="674.80713"
+       y="866.43634"
        id="text6759"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6761"
-         x="503.98401"
-         y="932.21191"
+         x="674.80713"
+         y="866.43634"
          style="font-size:22.5px">SCREEN</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="272.05301"
-       y="978.88092"
+       x="209.979"
+       y="974.06256"
        id="text5585"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5587"
-         x="272.05301"
-         y="978.88092">USB</tspan></text>
+         x="209.979"
+         y="974.06256">USB</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="354.16238"
-       y="978.88092"
+       x="89.990997"
+       y="964.87018"
        id="text5589"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5591"
-         x="354.16238"
-         y="978.88092">ETHERNET?</tspan></text>
+         x="89.990997"
+         y="964.87018">ETHERNET</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
