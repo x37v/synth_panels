@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39199347"
-     inkscape:cx="496.94611"
-     inkscape:cy="476.89919"
+     inkscape:zoom="0.78398694"
+     inkscape:cx="384.44047"
+     inkscape:cy="154.44315"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,53 +97,56 @@
        cy="1042.13"
        cx="-19.907946"
        id="path5814"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0425175;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        r="2.6279542"
        cy="1042.13"
        cx="502.9921"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0425175;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path3026" />
     <g
        id="g4396"
-       transform="translate(7.8131788e-5,2.3858089e-4)">
+       transform="translate(7.8131788e-5,2.3858089e-4)"
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          transform="translate(-22.557163,336.11778)"
          id="rect4258"
          d="m 0.04492187,708.61719 0,283.46289 212.59765813,0 0,177.16602 708.66211,0 0,-177.16602 212.59761,0 0,-283.46289 -1133.85737813,0 z"
-         style="fill:#ffdb45;fill-opacity:1;stroke:#ff00f1;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <g
-         id="g4279">
+         id="g4279"
+         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none">
         <ellipse
            cy="1086.4213"
            cx="284.81589"
-           style="fill:#ff45f4;fill-opacity:1;stroke:#000000;stroke-width:0.04251276;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path5812"
            rx="2.6273656"
            ry="2.6279566" />
         <ellipse
            cy="1192.7206"
            cx="284.81586"
-           style="fill:#ff45f4;fill-opacity:1;stroke:#000000;stroke-width:0.04251276;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path5812-3"
            rx="2.6273656"
            ry="2.6279566" />
       </g>
       <g
          id="g4279-6"
-         transform="translate(522.90001,-4.5559333e-5)">
+         transform="translate(522.90001,-4.5559333e-5)"
+         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none">
         <ellipse
            cy="1086.4213"
            cx="284.81589"
-           style="fill:#ff45f4;fill-opacity:1;stroke:#000000;stroke-width:0.04251276;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path5812-7"
            rx="2.6273656"
            ry="2.6279566" />
         <ellipse
            cy="1192.7206"
            cx="284.81586"
-           style="fill:#ff45f4;fill-opacity:1;stroke:#000000;stroke-width:0.04251276;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path5812-3-5"
            rx="2.6273656"
            ry="2.6279566" />
