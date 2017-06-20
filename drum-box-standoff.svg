@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="drum-box-standoff.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="115.68616"
-     inkscape:cy="180.41535"
+     inkscape:zoom="1.4"
+     inkscape:cx="161.14364"
+     inkscape:cy="306.5213"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,11 @@
      inkscape:window-height="747"
      inkscape:window-x="0"
      inkscape:window-y="19"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,9 +63,8 @@
      transform="translate(3.5433071,-623.67436)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 0.0625,-70.75 0,425.03125 177.0625,0 0,-177.1875 53.09375,0 0,-247.84375 -53.09375,0 -17.03125,0 -160.03125,0 z"
-       transform="translate(0,698.03017)"
+       d="M 3.59375 3.59375 L 3.59375 384.5625 L 47.65625 428.625 L 180.65625 428.625 L 180.65625 251.4375 L 233.75 251.4375 L 233.75 3.59375 L 180.65625 3.59375 L 163.625 3.59375 L 3.59375 3.59375 z "
        id="rect2985"
-       inkscape:connector-curvature="0" />
+       transform="translate(-3.5433071,623.67436)" />
   </g>
 </svg>
