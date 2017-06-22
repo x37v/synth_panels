@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2909409"
-     inkscape:cx="42.770309"
-     inkscape:cy="251.99721"
+     inkscape:zoom="0.91283306"
+     inkscape:cx="113.72892"
+     inkscape:cy="254.33287"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,8 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-midpoints="true" />
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -67,8 +68,8 @@
      transform="translate(3.5433071,-623.67436)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.09;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 3.59375 3.59375 L 3.59375 359.84375 L 72.375 428.625 L 180.65625 428.625 L 180.65625 251.4375 L 233.75 251.4375 L 233.75 3.59375 L 180.65625 3.59375 L 163.625 3.59375 L 136.46875 3.59375 L 136.46875 92.15625 L 56.75 92.15625 L 56.75 3.59375 L 3.59375 3.59375 z "
-       id="rect2985"
-       transform="translate(-3.5433071,623.67436)" />
+       d="M 3.59375 3.59375 L 3.59375 359.84375 L 72.375 428.625 L 180.65625 428.625 L 180.65625 251.4375 L 233.75 251.4375 L 233.75 3.59375 L 233.5625 3.59375 L 180.59375 3.59375 L 180.59375 92.15625 L 100.875 92.15625 L 100.875 3.59375 L 56.75 3.59375 L 3.875 3.59375 L 3.59375 3.59375 z "
+       transform="translate(-3.5433071,623.67436)"
+       id="rect2985" />
   </g>
 </svg>
