@@ -437,9 +437,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="610.05655"
-     inkscape:cy="-679.0325"
+     inkscape:zoom="0.0875"
+     inkscape:cx="1243.2888"
+     inkscape:cy="1949.0598"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -533,11 +533,6 @@
        cx="652.40149"
        id="circle15814"
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -28.78758,-66.551061 v -6.35 h -99.6952 a 12.699997,12.699997 0 0 1 -1.26762,-0.0636 12.699997,12.699997 0 0 1 -1.25522,-0.18965 12.699997,12.699997 0 0 1 -1.2299,-0.31419 12.699997,12.699997 0 0 1 -1.19269,-0.43514 12.699997,12.699997 0 0 1 -1.14308,-0.55242 12.699997,12.699997 0 0 1 -1.08211,-0.66352 12.699997,12.699997 0 0 1 -1.01079,-0.7679 12.699997,12.699997 0 0 1 -0.92863,-0.86555 12.699997,12.699997 0 0 1 -0.83819,-0.95342 12.699997,12.699997 0 0 1 -0.73845,-1.03301 12.699997,12.699997 0 0 1 -0.63149,-1.10123 12.699997,12.699997 0 0 1 -0.51831,-1.15858 12.699997,12.699997 0 0 1 -0.4005,-1.2046 12.699997,12.699997 0 0 1 -0.27802,-1.23867 12.699997,12.699997 0 0 1 -0.15296,-1.26039 12.699997,12.699997 0 0 1 -0.032,-0.89813 v -5.3e-4 -146.049469 h -6.35 v -50.8 h 6.35 v -146.04999 a 12.699997,12.699997 0 0 1 0.0636,-1.26815 12.699997,12.699997 0 0 1 0.18966,-1.25521 12.699997,12.699997 0 0 1 0.31419,-1.22989 12.699997,12.699997 0 0 1 0.43512,-1.19272 12.699997,12.699997 0 0 1 0.55242,-1.14308 12.699997,12.699997 0 0 1 0.66352,-1.08209 12.699997,12.699997 0 0 1 0.76843,-1.01028 12.699997,12.699997 0 0 1 0.86506,-0.92914 12.699997,12.699997 0 0 1 0.95395,-0.83767 12.699997,12.699997 0 0 1 1.0325,-0.73845 12.699997,12.699997 0 0 1 1.10122,-0.63201 12.699997,12.699997 0 0 1 1.15859,-0.51832 12.699997,12.699997 0 0 1 1.20457,-0.4005 12.699997,12.699997 0 0 1 1.23869,-0.278 12.699997,12.699997 0 0 1 1.26039,-0.15298 12.699997,12.699997 0 0 1 0.89813,-0.0315 h 99.6952 v -6.35 h 50.8 v 6.35 h 238.75958 v -6.35 h 50.8 v 6.35 h 99.69521 a 12.699999,12.699999 0 0 0 5.3e-4,0 12.699999,12.699999 0 0 1 1.26762,0.0636 12.699999,12.699999 0 0 1 1.25521,0.18965 12.699999,12.699999 0 0 1 1.22989,0.31419 12.699999,12.699999 0 0 1 1.19271,0.43514 12.699999,12.699999 0 0 1 1.14308,0.55189 12.699999,12.699999 0 0 1 1.0821,0.66352 12.699999,12.699999 0 0 1 1.01078,0.76843 12.699999,12.699999 0 0 1 0.92864,0.86559 12.699999,12.699999 0 0 1 0.83767,0.95342 12.699999,12.699999 0 0 1 0.73845,1.03251 12.699999,12.699999 0 0 1 0.63201,1.10123 12.699999,12.699999 0 0 1 0.51832,1.15908 12.699999,12.699999 0 0 1 0.4005,1.2046 12.699999,12.699999 0 0 1 0.278,1.23867 12.699999,12.699999 0 0 1 0.15298,1.25987 12.699999,12.699999 0 0 1 0.0315,0.89865 v 146.05 h 6.35 v 50.8 h -6.35 v 146.049999 a 12.699999,12.699999 0 0 1 -0.063,1.26762 12.699999,12.699999 0 0 1 -0.18965,1.25523 12.699999,12.699999 0 0 1 -0.31419,1.23039 12.699999,12.699999 0 0 1 -0.43564,1.19219 12.699999,12.699999 0 0 1 -0.55189,1.14308 12.699999,12.699999 0 0 1 -0.66353,1.08212 12.699999,12.699999 0 0 1 -0.76843,1.01079 12.699999,12.699999 0 0 1 -0.86505,0.92913 12.699999,12.699999 0 0 1 -0.95396,0.83767 12.699999,12.699999 0 0 1 -1.03251,0.73846 12.699999,12.699999 0 0 1 -1.10122,0.63148 12.699999,12.699999 0 0 1 -1.15858,0.51885 12.699999,12.699999 0 0 1 -1.2051,0.39997 12.699999,12.699999 0 0 1 -1.23814,0.27802 12.699999,12.699999 0 0 1 -1.2604,0.15296 12.699999,12.699999 0 0 1 -0.89866,0.032 h -99.69521 v 6.35 h -50.8 v -6.35 H 22.0125 v 6.35 z"
-       id="rect15866"
-       inkscape:connector-curvature="0" />
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect15909"
@@ -557,49 +552,6 @@
          y="-446.11267"
          style="stroke-width:0.26458332"
          id="tspan15998">bus bar spacers/moutning. affixed to sides of case with 1x1 + glue</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="48.573063"
-       y="11.055118"
-       id="text16002"><tspan
-         sodipodi:role="line"
-         id="tspan16000"
-         x="48.573063"
-         y="11.055118"
-         style="stroke-width:0.26458332">center spacer cover, should have a couple 1x1s that extend to the bus rail</tspan><tspan
-         sodipodi:role="line"
-         x="48.573063"
-         y="24.284283"
-         style="stroke-width:0.26458332"
-         id="tspan16020">for support</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="201.53429"
-       y="105.49116"
-       id="text16006"><tspan
-         sodipodi:role="line"
-         id="tspan16004"
-         x="201.53429"
-         y="105.49116"
-         style="stroke-width:0.26458332">side. needs holes for vector rails as well as mounting to suitcase/angle riser</tspan><tspan
-         sodipodi:role="line"
-         x="201.53429"
-         y="118.72033"
-         style="stroke-width:0.26458332"
-         id="tspan16008">right side: should have hole for power cables?</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-87.009834"
-       y="47.809048"
-       id="text16012"><tspan
-         sodipodi:role="line"
-         id="tspan16010"
-         x="-87.009834"
-         y="47.809048"
-         style="stroke-width:0.26458332">bottom</tspan></text>
     <ellipse
        id="path4566"
        style="fill:none;stroke:#000000;stroke-width:0.02504122;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
