@@ -437,9 +437,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2813.3747"
-     inkscape:cy="996.44766"
+     inkscape:zoom="0.7"
+     inkscape:cx="1698.0876"
+     inkscape:cy="1510.6256"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -580,21 +580,6 @@
        x="449.86752"
        y="-649.19745"
        transform="rotate(90)" />
-    <path
-       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 738.53477,-386.54383 v 6.35 h -12.7 v 12.7 h 12.7 v 6.35 h 25.4 v -6.35 h 12.7 v -12.7 h -12.7 v -6.35 z"
-       id="rect15956"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path15974"
-       d="m 739.29072,-417.99146 v 6.35 h -12.7 v 12.7 h 12.7 v 6.35 h 25.4 v -6.35 h 12.7 v -12.7 h -12.7 v -6.35 z"
-       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 606.47556,-415.04338 v 50.8 h 50.8 v -50.8 z m 12.7,12.7 h 25.4 v 6.35 h -25.4 z m 0,19.05 h 25.4 v 6.35 h -25.4 z"
-       id="path15982"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -602,15 +587,10 @@
        y="-446.11267"
        id="text15996"><tspan
          sodipodi:role="line"
-         id="tspan15994"
          x="595.86401"
          y="-446.11267"
-         style="stroke-width:0.26458332">bus bar spacers/moutning. affixed to sides of case with 1x1 + glue</tspan><tspan
-         sodipodi:role="line"
-         x="595.86401"
-         y="-432.88348"
          style="stroke-width:0.26458332"
-         id="tspan15998">bars screw through these on either side</tspan></text>
+         id="tspan15998">bus bar spacers/moutning. affixed to sides of case with 1x1 + glue</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -630,17 +610,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="595.48956"
-       y="145.58159"
+       x="201.53429"
+       y="105.49116"
        id="text16006"><tspan
          sodipodi:role="line"
          id="tspan16004"
-         x="595.48956"
-         y="145.58159"
+         x="201.53429"
+         y="105.49116"
          style="stroke-width:0.26458332">side. needs holes for vector rails as well as mounting to suitcase/angle riser</tspan><tspan
          sodipodi:role="line"
-         x="595.48956"
-         y="158.81075"
+         x="201.53429"
+         y="118.72033"
          style="stroke-width:0.26458332"
          id="tspan16008">right side: should have hole for power cables?</tspan></text>
     <text
@@ -11556,7 +11536,7 @@
          style="fill:#000000;fill-opacity:0.33830848;stroke:none;stroke-width:0.21302742;stroke-miterlimit:4;stroke-dasharray:1.70421938, 1.70421938;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g2969">
+       id="g6558">
       <g
          transform="rotate(90,870.00889,-149.04263)"
          id="g9056">
@@ -11651,17 +11631,43 @@
         </g>
       </g>
       <rect
-         y="-244.35101"
+         y="-263.401"
          x="430.31729"
          height="25.4"
-         width="38.099998"
+         width="50.799999"
          id="rect2818"
-         style="fill:#ff0000;fill-opacity:0.44505496;stroke:none;stroke-width:0.29586628;stroke-miterlimit:4;stroke-dasharray:2.36693008, 2.36693008;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#ff0000;fill-opacity:0.44505496;stroke:none;stroke-width:0.34163696;stroke-miterlimit:4;stroke-dasharray:2.73309549, 2.73309549;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <path
-       id="path2826"
-       d="m 664.22457,-415.04338 v 50.8 h 50.8 v -50.8 z m 12.7,12.7 h 25.4 v 6.35 h -25.4 z m 0,19.05 h 25.4 v 6.35 h -25.4 z"
-       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.16500415;stroke-miterlimit:4;stroke-dasharray:1.32003326, 1.32003326;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2813"
+       width="63.5"
+       height="50.799999"
+       x="640.94128"
+       y="-399.77313" />
+    <rect
+       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.18023363;stroke-miterlimit:4;stroke-dasharray:1.44186905, 1.44186905;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2815"
+       width="254"
+       height="12.7"
+       x="721.93457"
+       y="-404.37265" />
+    <g
+       id="g6730"
+       transform="translate(-100.78295,1.2402852)">
+      <path
+         id="path6642"
+         transform="matrix(0.26458333,0,0,0.26458333,0,-719.00002)"
+         d="m 2547.4512,1847.9492 a 47.999986,47.999986 0 0 0 -0.6055,0.9883 47.999986,47.999986 0 0 0 -2.0879,4.3203 47.999986,47.999986 0 0 0 -1.6445,4.5059 47.999986,47.999986 0 0 0 -1.1875,4.6504 47.999986,47.999986 0 0 0 -0.7168,4.7421 47.999986,47.999986 0 0 0 -0.2422,4.793 v 576 h 24 v 192 h -24 v 575.8946 h 0.012 a 48.000451,47.999997 0 0 0 0.1113,3.25 48.000451,47.999997 0 0 0 0.5801,4.7617 48.000451,47.999997 0 0 0 1.0508,4.6816 48.000451,47.999997 0 0 0 1.5137,4.5527 48.000451,47.999997 0 0 0 1.959,4.3809 48.000451,47.999997 0 0 0 1.2773,2.2246 h 83.0195 a 48.000451,47.999997 0 0 0 0.6055,-0.9863 48.000451,47.999997 0 0 0 2.0879,-4.3203 48.000451,47.999997 0 0 0 1.6445,-4.5059 48.000451,47.999997 0 0 0 1.1875,-4.6484 48.000451,47.999997 0 0 0 0.7168,-4.7442 48.000451,47.999997 0 0 0 0.2344,-4.6875 47.999993,47.999993 0 0 1 0.012,0.1465 47.999993,47.999993 0 0 1 -0.2402,4.793 47.999993,47.999993 0 0 1 -0.7168,4.7441 47.999993,47.999993 0 0 1 -1.1875,4.6485 47.999993,47.999993 0 0 1 -1.6445,4.5058 47.999993,47.999993 0 0 1 -2.0879,4.3203 47.999993,47.999993 0 0 1 -0.6055,0.9883 h 126.4727 v -72 h 216 v -480 h -216 v -108 h 204 v -72 h -204 v -108 h 216 v -480 h -216 v -72 h -126.5 z m -6.4824,1401.6094 v 14.3906 z"
+         style="fill:#000000;fill-opacity:0.22527472;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#ff0000;fill-opacity:0.44505496;stroke:none;stroke-width:0.34163696;stroke-miterlimit:4;stroke-dasharray:2.73309549, 2.73309549;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6674"
+         width="50.799999"
+         height="25.4"
+         x="678.64764"
+         y="-52.263512" />
+    </g>
   </g>
 </svg>
