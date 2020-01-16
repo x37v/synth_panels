@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="537.79454"
-     inkscape:cy="420.2337"
+     inkscape:zoom="0.35"
+     inkscape:cx="747.74637"
+     inkscape:cy="306.59609"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
      transform="translate(0,7.8000168)">
     <g
        id="g5833"
-       transform="rotate(-90,1.1930219,314.27525)">
+       transform="rotate(-90,-1.4528115,315.40918)">
       <g
          id="g5733">
         <g
@@ -203,7 +203,7 @@
          cy="540.92371" />
     </g>
     <g
-       transform="rotate(-90,59.457666,374.14356)"
+       transform="rotate(-90,61.536535,383.026)"
        id="g5851">
       <g
          id="g5697">
@@ -271,18 +271,18 @@
        id="rect2815"
        width="253.99998"
        height="12.700001"
-       x="5.1215849"
-       y="233.19679" />
+       x="13.445486"
+       y="110.44703" />
     <rect
-       y="249.57791"
-       x="4.4061918"
+       y="244.00079"
+       x="3.2806883"
        height="12.700001"
        width="253.99998"
        id="rect7046"
        style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.18023363;stroke-miterlimit:4;stroke-dasharray:1.44186909, 1.44186909;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       y="264.90466"
-       x="5.1215849"
+       y="259.32755"
+       x="3.9960814"
        height="12.700001"
        width="253.99998"
        id="rect7052"
@@ -292,14 +292,15 @@
        id="rect7054"
        width="253.99998"
        height="12.700001"
-       x="4.4061918"
-       y="281.2858" />
+       x="-249.55272"
+       y="424.04379"
+       transform="rotate(-90)" />
     <rect
        style="fill:#000000;fill-opacity:0.32876713;stroke:none;stroke-width:0.02495823;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2852"
        width="63.499996"
        height="63.499996"
-       x="261.71194"
-       y="231.03949" />
+       x="357.72632"
+       y="112.44748" />
   </g>
 </svg>

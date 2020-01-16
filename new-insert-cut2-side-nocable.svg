@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="880.57608"
-     inkscape:cy="540.32682"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="868.38829"
+     inkscape:cy="556.94962"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
      transform="translate(0,7.8000168)">
     <g
        id="g5751"
-       transform="matrix(0,1,1,0,-311.26514,-208.96087)">
+       transform="matrix(0,1,1,0,-322.60443,-211.6067)">
       <g
          id="g5745"
          transform="translate(-365.96921,553.84691)">
@@ -111,7 +111,7 @@
     </g>
     <g
        id="g5797"
-       transform="matrix(0,1,1,0,-309.37522,-91.410462)">
+       transform="matrix(0,1,1,0,-314.66689,-78.776076)">
       <g
          id="g5791"
          transform="translate(-218.42181,766.22469)">
@@ -251,18 +251,18 @@
        id="rect2815"
        width="253.99998"
        height="12.700001"
-       x="15.09878"
-       y="232.58763" />
+       x="18.840546"
+       y="112.31633" />
     <rect
-       y="248.96877"
-       x="14.383387"
+       y="244.1579"
+       x="5.2962232"
        height="12.700001"
        width="253.99998"
        id="rect7046"
        style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.18023363;stroke-miterlimit:4;stroke-dasharray:1.44186909, 1.44186909;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       y="264.2955"
-       x="15.09878"
+       y="259.48465"
+       x="6.0116086"
        height="12.700001"
        width="253.99998"
        id="rect7052"
@@ -272,14 +272,15 @@
        id="rect7054"
        width="253.99998"
        height="12.700001"
-       x="14.383387"
-       y="280.67664" />
+       x="-3.5423207"
+       y="-434.78088"
+       transform="rotate(90)" />
     <rect
        style="fill:#000000;fill-opacity:0.32876713;stroke:none;stroke-width:0.02495823;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2852"
        width="63.499996"
        height="63.499996"
-       x="272.52084"
-       y="231.61012" />
+       x="355.77386"
+       y="55.672375" />
   </g>
 </svg>
