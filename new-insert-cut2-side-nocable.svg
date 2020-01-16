@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="22.556606"
-     inkscape:cy="1151.6683"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="927.09375"
+     inkscape:cy="778.14555"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,16 @@
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-bbox-edge-midpoints="true" />
+     inkscape:snap-bbox-edge-midpoints="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="84.969269,245.91095"
+       orientation="0,1"
+       id="guide3079"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5856">
     <rdf:RDF>
@@ -90,22 +99,13 @@
          rx="0.74150097"
          ry="0.74166775" />
     </g>
-    <ellipse
-       ry="0.74166775"
-       rx="0.74150097"
+    <circle
        id="ellipse5747"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       cx="51.089039"
+       cx="51.089043"
        cy="84.969269"
-       transform="matrix(0,1,1,0,0,0)" />
-    <ellipse
-       ry="0.74166775"
-       rx="0.74150097"
-       id="ellipse5749"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       cx="51.089039"
-       cy="288.16925"
-       transform="matrix(0,1,1,0,0,0)" />
+       transform="matrix(0,1,1,0,0,0)"
+       r="3.8831985" />
     <path
        id="path5753"
        transform="matrix(0.26458334,0,0,0.26458334,0,-7.8000168)"
@@ -224,22 +224,6 @@
          cy="-443.0173"
          transform="rotate(90)" />
     </g>
-    <ellipse
-       ry="0.74166775"
-       rx="0.74150097"
-       id="ellipse5793"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       cx="183.91966"
-       cy="296.10678"
-       transform="matrix(0,1,1,0,0,0)" />
-    <ellipse
-       ry="0.74166775"
-       rx="0.74150097"
-       id="ellipse5795"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       cx="183.91966"
-       cy="92.906807"
-       transform="matrix(0,1,1,0,0,0)" />
     <rect
        style="fill:none;fill-opacity:0.44505496;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2815"
@@ -276,5 +260,26 @@
        height="63.499996"
        x="355.77386"
        y="55.672375" />
+    <circle
+       r="3.8831985"
+       transform="matrix(0,1,1,0,0,0)"
+       cy="288.16925"
+       cx="51.089039"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3081" />
+    <circle
+       id="circle3083"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="183.91966"
+       cy="296.10678"
+       transform="matrix(0,1,1,0,0,0)"
+       r="3.8831985" />
+    <circle
+       r="3.8831985"
+       transform="matrix(0,1,1,0,0,0)"
+       cy="92.906807"
+       cx="183.91966"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3085" />
   </g>
 </svg>
