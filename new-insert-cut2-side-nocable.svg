@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="192.91414"
-     inkscape:cy="333.00072"
+     inkscape:cx="880.57608"
+     inkscape:cy="540.32682"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -246,5 +246,40 @@
          rx="0.74150097"
          ry="0.74166775" />
     </g>
+    <rect
+       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.18023363;stroke-miterlimit:4;stroke-dasharray:1.44186909, 1.44186909;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2815"
+       width="253.99998"
+       height="12.700001"
+       x="15.09878"
+       y="232.58763" />
+    <rect
+       y="248.96877"
+       x="14.383387"
+       height="12.700001"
+       width="253.99998"
+       id="rect7046"
+       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.18023363;stroke-miterlimit:4;stroke-dasharray:1.44186909, 1.44186909;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="264.2955"
+       x="15.09878"
+       height="12.700001"
+       width="253.99998"
+       id="rect7052"
+       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.18023363;stroke-miterlimit:4;stroke-dasharray:1.44186909, 1.44186909;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#000000;fill-opacity:0.44505496;stroke:none;stroke-width:0.18023363;stroke-miterlimit:4;stroke-dasharray:1.44186909, 1.44186909;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7054"
+       width="253.99998"
+       height="12.700001"
+       x="14.383387"
+       y="280.67664" />
+    <rect
+       style="fill:#000000;fill-opacity:0.32876713;stroke:none;stroke-width:0.02495823;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2852"
+       width="63.499996"
+       height="63.499996"
+       x="272.52084"
+       y="231.61012" />
   </g>
 </svg>
