@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7377778"
-     inkscape:cx="612.10818"
-     inkscape:cy="369.15216"
+     inkscape:zoom="0.96795062"
+     inkscape:cx="556.24273"
+     inkscape:cy="524.66225"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,9 +37,12 @@
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true">
     <sodipodi:guide
        position="304.80001,373.38769"
        orientation="1,0"
@@ -56,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,15 +69,15 @@
      id="layer1"
      transform="translate(0,7.8000168)">
     <path
-       style="fill:none;fill-opacity:0.31868137;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 11.678399,-5.7745974 V 25.975418 H 2.1533994 v 44.45153 5.29e-4 a 12.7,12.7 0 0 0 0.032,0.898128 12.7,12.7 0 0 0 0.15296,1.260401 12.7,12.7 0 0 0 0.27802,1.238671 12.7,12.7 0 0 0 0.3999698,1.204569 12.7,12.7 0 0 0 0.51883,1.15911 12.7,12.7 0 0 0 0.6315,1.10072 12.7,12.7 0 0 0 0.73846,1.03301 12.7,12.7 0 0 0 0.83767,0.953431 12.7,12.7 0 0 0 0.92913,0.865579 12.7,12.7 0 0 0 1.01029,0.767901 12.7,12.7 0 0 0 1.08262,0.66353 12.7,12.7 0 0 0 1.14308,0.552421 12.7,12.7 0 0 0 1.1921598,0.43511 12.7,12.7 0 0 0 1.23042,0.31419 12.7,12.7 0 0 0 1.25471,0.189648 12.7,12.7 0 0 0 1.26761,0.0636 H 120.89856 v -6.35 h 50.8 v 6.35 h 119.37982 v -19.05103 h -12.7 V 13.276452 h 12.7 V -5.7745774 Z"
-       id="path15809"
-       inkscape:connector-curvature="0" />
+       style="fill:none;fill-opacity:0.31868137;stroke:#000000;stroke-width:0.09599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 92.138672 31.654297 L 92.138672 55.654297 L 44.138672 55.654297 L 44.138672 127.6543 L 8.1386719 127.6543 L 8.1386719 295.66016 L 8.1386719 295.66211 L 8.1386719 319.71094 L 189.05859 319.71094 L 189.05859 319.66211 L 456.93945 319.66211 L 648.93945 319.66211 L 1100.1387 319.66211 L 1100.1387 271.6582 L 1100.1387 223.6582 L 1052.1387 223.6582 L 1052.1387 127.6582 L 1100.1387 127.6582 L 1100.1387 79.658203 L 1100.1387 31.654297 L 92.138672 31.654297 z "
+       transform="matrix(0.26458334,0,0,0.26458334,0,-7.8000168)"
+       id="path15809" />
     <path
-       style="fill:none;fill-opacity:0.44505496;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 14.323785,84.959 v 19.05103 H 1.6237851 v 50.80002 H 14.323785 v 19.05103 H 133.70357 v -6.35 h 50.8 v 6.35 h 106.04522 a 12.7,12.7 0 0 0 0.89813,-0.032 12.7,12.7 0 0 0 1.26039,-0.15296 12.7,12.7 0 0 0 1.23868,-0.27802 12.7,12.7 0 0 0 1.20459,-0.4 12.7,12.7 0 0 0 1.15909,-0.51882 12.7,12.7 0 0 0 1.10072,-0.63148 12.7,12.7 0 0 0 1.03301,-0.73845 12.7,12.7 0 0 0 0.95343,-0.83767 12.7,12.7 0 0 0 0.86558,-0.92917 12.7,12.7 0 0 0 0.7679,-1.01025 12.7,12.7 0 0 0 0.66352,-1.08263 12.7,12.7 0 0 0 0.55243,-1.14308 12.7,12.7 0 0 0 0.43508,-1.19218 12.7,12.7 0 0 0 0.31422,-1.23042 12.7,12.7 0 0 0 0.18965,-1.25521 12.7,12.7 0 0 0 0.0641,-1.26762 v -44.45206 h -9.5255 V 84.95904 Z"
-       id="path2886"
-       inkscape:connector-curvature="0" />
+       style="fill:none;fill-opacity:0.44505496;stroke:#000000;stroke-width:0.09599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 54.136719 374.58594 L 54.136719 422.58984 L 54.136719 470.58984 L 6.1367188 470.58984 L 6.1367188 566.58984 L 54.136719 566.58984 L 54.136719 614.58984 L 54.136719 662.59375 L 505.33594 662.59375 L 697.33594 662.59375 L 836.39844 662.59375 L 836.39844 662.64258 L 1146.1387 662.64258 L 1146.1387 638.59375 L 1146.1387 470.58594 L 1110.1367 470.58594 L 1110.1367 398.58594 L 1062.1367 398.58594 L 1062.1367 374.58594 L 54.136719 374.58594 z "
+       transform="matrix(0.26458334,0,0,0.26458334,0,-7.8000168)"
+       id="path2886" />
     <rect
        style="fill:none;fill-opacity:0.32876713;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2848"
