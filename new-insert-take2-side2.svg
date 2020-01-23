@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="647.43149"
-     inkscape:cy="253.22119"
+     inkscape:cx="476.64991"
+     inkscape:cy="150.13075"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,10 +55,10 @@
      id="layer1"
      transform="translate(0,-185.23999)">
     <path
-       style="fill:none;fill-opacity:0.22527472;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 21.721405,187.31224 v 57.15 H 2.6714045 v 33.46927 17.43925 H 161.42141 v -0.108 h 50.8 v 0.108 h 158.68282 v -17.44441 a 12.699999,12.700119 0 0 0 -0.12867,-0.0791 v -0.0424 a 12.699998,12.699998 0 0 1 0.19585,0.11989 v -33.46256 h -19.05 v -57.15 h -127 v 50.8 h -28.575 v -47.625 h -19.05 v 47.625 h -28.575 v -50.8 z"
-       id="path6642"
-       inkscape:connector-curvature="0" />
+       style="fill:none;fill-opacity:0.22527472;stroke:#000000;stroke-width:0.09599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 82.095703 7.8320312 L 82.095703 199.89258 L 34.158203 199.89258 L 34.158203 223.83203 L 10.095703 223.83203 L 10.095703 350.33008 L 10.095703 416.24219 L 610.0957 416.24219 L 610.0957 415.83398 L 802.0957 415.83398 L 802.0957 416.24219 L 1401.8418 416.24219 L 1401.8418 350.31055 A 47.999995 48.000448 0 0 0 1401.3555 350.01172 L 1401.3555 349.85156 A 47.999991 47.999991 0 0 1 1402.0957 350.30469 L 1402.0957 223.83203 L 1378.0352 223.83203 L 1378.0352 199.89258 L 1330.0957 199.89258 L 1330.0957 7.8320312 L 850.0957 7.8320312 L 850.0957 199.83203 L 742.0957 199.83203 L 742.0957 19.832031 L 670.0957 19.832031 L 670.0957 199.83203 L 562.0957 199.83203 L 562.0957 7.8320312 L 82.095703 7.8320312 z "
+       transform="matrix(0.26458334,0,0,0.26458334,0,185.23999)"
+       id="path6642" />
     <rect
        y="180.47148"
        x="-295.26233"
