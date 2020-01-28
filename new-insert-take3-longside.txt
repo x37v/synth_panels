@@ -1,0 +1,6 @@
+notes:
+
+draw a box that is 23x3.25 inches
+
+align laser at top left corner, cut #1
+turn around and align again at top left corner, cut #2
