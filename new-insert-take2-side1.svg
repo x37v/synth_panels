@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="325.88131"
-     inkscape:cy="-26.851602"
+     inkscape:zoom="1.4"
+     inkscape:cx="808.58896"
+     inkscape:cy="83.914386"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,26 +119,26 @@
        cx="198.43535"
        cy="282.24365" />
     <circle
-       r="3.8831985"
+       r="4.43051"
        transform="matrix(0,1,1,0,0,0)"
        cy="293.68533"
        cx="244.1434"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.02897996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3102-3" />
     <circle
-       r="3.8831985"
+       r="4.43051"
        transform="matrix(0,1,1,0,0,0)"
        cy="90.485352"
        cx="244.1434"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.02897996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3102-6" />
     <ellipse
-       style="fill:none;fill-opacity:0.32876713;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.32876713;stroke:#000000;stroke-width:0.03809699;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path3144"
        cx="223.83537"
        cy="275.89365"
-       rx="6.3378019"
-       ry="6.3378015" />
+       rx="9.5059519"
+       ry="9.5059509" />
     <circle
        r="1.5875001"
        cy="198.89578"
