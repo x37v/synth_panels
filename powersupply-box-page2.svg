@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16in"
+   height="11in"
+   viewBox="0 0 406.40001 279.40001"
+   version="1.1"
+   id="svg5859"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="powersupply-box-page2.svg">
+  <defs
+     id="defs5853" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.69030023"
+     inkscape:cx="636.8524"
+     inkscape:cy="574.47012"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1916"
+     inkscape:window-height="1036"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5856">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.599984)">
+    <path
+       style="fill:#000012;fill-opacity:0.07999998;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 312.37938,115.61495 v 177.8 h 76.2 v -177.8 z m 30.1258,49.53031 h 15.93133 a 15.113001,15.113001 0 0 1 7.15616,12.82712 15.113001,15.113001 0 0 1 -15.11276,15.11278 15.113001,15.113001 0 0 1 -15.11329,-15.11278 15.113001,15.113001 0 0 1 7.13856,-12.82712 z m 5.05344,53.97758 h 5.84202 v 2.88045 a 9.5821505,9.5821505 0 0 1 6.6611,9.12192 9.5821505,9.5821505 0 0 1 -9.58236,9.58185 9.5821505,9.5821505 0 0 1 -9.58184,-9.58185 9.5821505,9.5821505 0 0 1 6.66108,-9.11417 z"
+       id="rect1945"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000012;fill-opacity:0.07999998;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 4.1297835,115.99824 v 177.8 H 308.92979 v -177.8 z m 25.3999995,25.4 h 1.20716 l -1.20716,1.20716 z m 19.63446,0 h 6.7169 l -26.35136,26.35136 v -6.7169 z m 25.1442,0 h 6.71693 l -51.49559,51.49559 v -6.71693 z m 25.144205,0 h 6.716932 l -76.639797,76.64029 v -6.71793 z m 25.144212,0 h 6.71692 L 29.529783,243.18223 v -6.71692 z m 25.14369,0 h 6.71743 L 29.529783,268.32643 v -6.71692 z m 25.14471,0 h 6.71692 l -127.000007,127 h -6.71743 z m 25.1437,0 h 6.7169 l -126.999487,127 h -6.71692 z m 25.1442,0 h 6.7169 l -126.99948,127 h -6.716922 z m 25.1442,0 h 6.7169 l -126.99948,127 h -6.71742 z m 25.1442,0 h 6.7169 l -126.99947,127 h -6.71793 z m 8.06823,17.07597 v 6.7169 l -103.2066,103.20713 h -6.71743 z m 0,25.1442 v 6.7169 l -78.06293,78.06293 h -6.7169 z m 0,25.1442 v 6.7169 l -52.91873,52.91873 h -6.7169 z m 0,25.1442 v 6.7169 l -27.77453,27.77453 h -6.7169 z m 0,25.1442 v 6.7169 l -2.63033,2.63033 h -6.71689 z"
+       id="rect1953"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="34.088753"
+       x="4.5942574"
+       height="76.200005"
+       width="304.80002"
+       id="rect1139"
+       style="fill:#000012;fill-opacity:0.07999998;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
