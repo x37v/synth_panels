@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="1144.208"
-     inkscape:cy="805.36937"
+     inkscape:zoom="1.4"
+     inkscape:cx="460.5409"
+     inkscape:cy="254.00547"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,8 +42,8 @@
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:measure-start="1377.14,687.143"
-     inkscape:measure-end="1377.14,551.429"
+     inkscape:measure-start="826.59,138.527"
+     inkscape:measure-end="826.429,7.85714"
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true">
     <sodipodi:guide
@@ -79,10 +79,10 @@
      id="layer1"
      transform="translate(0,-17.599984)">
     <path
-       style="fill:none;fill-opacity:0.07999998;stroke:#000000;stroke-width:0.0254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.7891248,117.45406 v 177.80002 h 6.3629194 v 0.0124 H 66.302046 V 187.31647 H 231.40205 v 107.94999 h 82.55001 v -0.0124 h 6.36291 v -177.8 h -13.03176 v 0.0124 H 14.752219 v -0.0124 z"
-       id="rect1943"
-       inkscape:connector-curvature="0" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 10.541016 377.40039 L 10.541016 1049.4004 L 11.798828 1049.4004 C 11.916041 1049.4291 12.035802 1049.4473 12.162109 1049.4473 L 34.589844 1049.4473 L 250.58984 1049.4473 L 874.58984 1049.4473 L 1186.5898 1049.4473 L 1209.1152 1049.4473 C 1209.2417 1049.4473 1209.3631 1049.4292 1209.4805 1049.4004 L 1210.6387 1049.4004 L 1210.6387 1047.9238 L 1210.6387 978.97266 L 1210.6387 377.40039 L 1161.3848 377.40039 L 1161.3848 377.44727 L 55.755859 377.44727 L 55.755859 377.40039 L 10.541016 377.40039 z M 250.58984 677.47266 L 874.58984 677.47266 L 874.58984 737.47266 L 828.60938 737.47266 C 827.49013 737.47266 826.58984 738.37294 826.58984 739.49219 L 826.58984 915.45312 C 826.58984 916.57237 827.49013 917.47266 828.60938 917.47266 L 874.58984 917.47266 L 874.58984 977.44727 L 250.58984 977.44727 L 250.58984 677.47266 z "
+       transform="matrix(0.26458334,0,0,0.26458334,0,17.599984)"
+       id="rect1943" />
     <path
        inkscape:connector-curvature="0"
        id="rect1139"
