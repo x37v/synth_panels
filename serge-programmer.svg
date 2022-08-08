@@ -3180,7 +3180,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1113914"
-     inkscape:cx="501.12122"
+     inkscape:cx="343.66094"
      inkscape:cy="270.50788"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -3321,7 +3321,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3362,17 +3362,6 @@
          x="574.92487"
          y="436.66241"
          style="font-weight:300;font-size:21.33333397px;line-height:1.25;-inkscape-font-specification:'Klavika Light';text-align:center;text-anchor:middle;stroke-width:1.06666672">PROGRAMMER</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Klavika;-inkscape-font-specification:'Klavika Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="1216.762"
-       y="656.23138"
-       id="text13761"><tspan
-         sodipodi:role="line"
-         id="tspan13763"
-         x="1216.762"
-         y="656.23138"
-         style="font-size:12.80000019px;line-height:1.25;stroke-width:1.06666672"> </tspan></text>
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path18551"
