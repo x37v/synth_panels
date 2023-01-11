@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.25in"
+   width="4.75in"
    height="11.5in"
-   viewBox="0 0 82.55 292.10001"
+   viewBox="0 0 120.65 292.10001"
    version="1.1"
    id="svg1400"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="new-insert-take3-longside1.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="new-insert-take3-longside1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1394" />
   <sodipodi:namedview
@@ -25,20 +25,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="10.098486"
-     inkscape:cy="1008.4804"
+     inkscape:zoom="0.71"
+     inkscape:cx="-23.239437"
+     inkscape:cy="9.8591549"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="2560"
-     inkscape:window-height="1395"
-     inkscape:window-x="1680"
-     inkscape:window-y="1"
+     inkscape:window-width="1718"
+     inkscape:window-height="993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0">
     <sodipodi:guide
        position="2.54,289.56"
        orientation="0,1"
@@ -67,7 +68,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,7 +78,7 @@
      transform="translate(0,-4.8999803)">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 297.6,1103.998 -0.0492,-453.59761 v -192 -267.88086 h 0.0488 V 9.5996094 h -24.04883 -0.002 -168.00586 V 45.599609 H 33.542969 v 48 H 9.5429688 l -2e-7,1010.391191"
+       d="m 441.60001,1103.998 0,-453.59761 0,-192 0,-267.88086 v 0 V 9.5996094 h -168.04924 -0.002 -168.00586 V 45.599609 H 33.542969 v 48 H 9.5429688 l -2e-7,1010.391191"
        id="path15809"
        transform="matrix(0.26458333,0,0,0.26458333,0,4.8999803)"
        inkscape:connector-curvature="0"
