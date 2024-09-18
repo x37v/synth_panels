@@ -3129,8 +3129,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="120.25"
-     inkscape:cy="253.5"
+     inkscape:cx="120.75"
+     inkscape:cy="453.5"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -5936,7 +5936,7 @@
            y="660.51703"
            x="144"
            id="tspan19518"
-           sodipodi:role="line">MIX</tspan></text>
+           sodipodi:role="line">DRY/WET</tspan></text>
     </g>
     <g
        id="g22453"
@@ -11365,7 +11365,7 @@
        y="620.17664"
        id="text24106"><tspan
          sodipodi:role="line"
-         id="tspan24104"></tspan></text>
+         id="tspan24104" /></text>
     <g
        id="g37067"
        transform="translate(-0.5418225,185.68133)">
