@@ -3129,8 +3129,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="120.75"
-     inkscape:cy="453.5"
+     inkscape:cx="121.25"
+     inkscape:cy="213.5"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -12436,6 +12436,12 @@
         </g>
       </g>
     </g>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.0937465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2199"
+       cx="239.45818"
+       cy="498.31839"
+       r="11.549883" />
   </g>
   <g
      inkscape:groupmode="layer"
