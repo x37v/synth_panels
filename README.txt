@@ -7,6 +7,9 @@ Font
    20 for functional block labels
 Switches used on the VCS needed 1/4" holes
 
+Jesse's laser at PCC
+raster: 60% speed, 100% power
+vector: 6 passes, all the rest max
 
 SERGE:
 
