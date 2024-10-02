@@ -9,7 +9,7 @@ Switches used on the VCS needed 1/4" holes
 
 Jesse's laser at PCC
 raster: 60% speed, 100% power, default threshold
-vector: 10 passes, 60% speed, all the rest max
+vector: 10 passes, 60% speed, all the rest max (this still wasn't quite enough, maybe slower speed)
 
 SERGE:
 
